@@ -1,3372 +1,3649 @@
 1
-00:00:01,785 --> 00:00:03,181
-<i>[suspenseful music]</i>
+00:00:02,000 --> 00:00:04,031
+<i>[tense music]</i>
 
 2
-00:00:03,186 --> 00:00:05,283
-She's dead.
+00:00:04,036 --> 00:00:07,134
+[sobs]
 
 3
-00:00:05,288 --> 00:00:06,951
-You killed Alexa.
-
-4
-00:00:06,956 --> 00:00:08,719
-Nora: Barry and I did it together.
-
-5
-00:00:08,724 --> 00:00:10,121
-That was the only way.
-
-6
-00:00:10,126 --> 00:00:12,423
-She was the strongest.
-
-7
-00:00:12,428 --> 00:00:14,192
-I needed every ounce of power,
-
-8
-00:00:14,197 --> 00:00:15,994
-including your strength, to kill her.
-
-9
-00:00:15,999 --> 00:00:18,829
-I'm supposed to protect
-lives, not destroy them!
-
-10
-00:00:18,834 --> 00:00:20,734
-I'm helping you clean up
-your mess, Barry.
-
-11
-00:00:20,739 --> 00:00:22,370
-This is your fault.
-
-12
-00:00:22,375 --> 00:00:25,676
-The night you brought me back,
-you created these monsters.
-
-13
-00:00:26,475 --> 00:00:28,305
-You and your lightning rod.
-
-14
-00:00:28,310 --> 00:00:30,908
-<i>[uneasy music]</i>
-
-15
-00:00:30,913 --> 00:00:32,676
-When you regained your speed,
-
-16
-00:00:32,681 --> 00:00:35,779
-I wasn't the only thing
-you two willed into existence.
-
-17
-00:00:35,784 --> 00:00:38,418
-- That's impossible.
-- Really?
-
-18
-00:00:39,688 --> 00:00:43,156
-Alexa was afraid to come here,
-but she trusted you.
-
-19
-00:00:44,693 --> 00:00:45,959
-Why?
-
-20
-00:00:47,396 --> 00:00:50,594
-Because deep down, she could
-feel a connection with you.
-
-21
-00:00:50,599 --> 00:00:53,263
-The same connection
-that you feel with me now.
-
-22
-00:00:53,268 --> 00:00:55,433
-But, these new forces?
-
-23
-00:00:55,438 --> 00:00:58,501
-The way they've merged with the
-people they chose as avatars?
-
-24
-00:00:58,506 --> 00:01:01,408
-It's corrupted them
-because it's unnatural.
-
-25
-00:01:02,377 --> 00:01:04,207
-But once the other two are gone...
-
-26
-00:01:04,212 --> 00:01:06,209
-I won't help you kill again.
-
-27
-00:01:06,214 --> 00:01:07,714
-Oh...
-
-28
-00:01:09,284 --> 00:01:11,350
-My beautiful boy.
-
-29
-00:01:12,954 --> 00:01:15,618
-You have no choice.
-
-30
-00:01:15,623 --> 00:01:17,320
-Because if you don't,
-
-31
-00:01:17,325 --> 00:01:21,324
-those things will kill everyone
-you've sworn to keep safe.
-
-32
-00:01:21,329 --> 00:01:22,962
-Is that what you want?
-
-33
-00:01:25,400 --> 00:01:28,832
-Then, please, Barry...
-
-34
-00:01:28,837 --> 00:01:30,202
-help me.
-
-35
-00:01:34,375 --> 00:01:35,905
-No.
-
-36
-00:01:35,910 --> 00:01:38,240
-You have to help me, damn it!
-
-37
-00:01:38,245 --> 00:01:40,112
-Nora, stop.
-
-38
-00:01:43,785 --> 00:01:46,483
-I will destroy those
-other forces, Barry,
-
-39
-00:01:46,488 --> 00:01:49,752
-with or without your help.
-
-40
-00:01:49,757 --> 00:01:51,855
-Then you'll see that I'm right.
-
-41
-00:01:51,860 --> 00:01:55,958
-<i>[dramatic music]</i>
-
-42
-00:01:55,963 --> 00:01:58,994
-<i>[upbeat music]</i>
-
-43
-00:01:58,999 --> 00:02:03,204
+00:00:07,139 --> 00:00:11,344
 <i>♪ ♪</i>
 
-44
-00:02:03,209 --> 00:02:10,709
+4
+00:00:12,277 --> 00:00:14,778
+Iris.
+
+5
+00:00:19,317 --> 00:00:21,014
+So that worked.
+
+6
+00:00:21,019 --> 00:00:23,252
+Wha... what just happened?
+How are we still alive?
+
+7
+00:00:25,057 --> 00:00:26,987
+Iris?
+
+8
+00:00:26,992 --> 00:00:28,757
+[sobs]
+
+9
+00:00:31,228 --> 00:00:33,095
+- I don't understand.
+- Neither do I.
+
+10
+00:00:37,001 --> 00:00:38,734
+What did you do?
+
+11
+00:00:40,037 --> 00:00:41,667
+As-as soon as Nora came in,
+
+12
+00:00:41,672 --> 00:00:43,402
+I kn... I knew you were right.
+
+13
+00:00:43,407 --> 00:00:45,871
+I could see the hate in her eyes.
+
+14
+00:00:45,876 --> 00:00:47,773
+Real anger issues... I mean,
+no match for me.
+
+15
+00:00:47,778 --> 00:00:50,375
+But I... I wanted to protect you all.
+
+16
+00:00:50,380 --> 00:00:52,311
+So I... took care of it.
+
+17
+00:00:52,316 --> 00:00:53,980
+You made her think we were dead?
+
+18
+00:00:53,985 --> 00:00:56,115
+You made us all see it.
+
+19
+00:00:56,120 --> 00:00:59,118
+It wasn't a nightmare,
+that was an illusion.
+
+20
+00:00:59,123 --> 00:01:00,752
+I didn't know you could do that.
+
+21
+00:01:00,757 --> 00:01:03,355
+Yeah...
+
+22
+00:01:03,360 --> 00:01:06,692
+[scoffs] Neither did he.
+
+23
+00:01:06,697 --> 00:01:08,628
+You were just trying
+to save yourself, you jerk.
+
+24
+00:01:08,632 --> 00:01:11,029
+Hey, hey, hey. How about
+"Thank you, Bashir"?
+
+25
+00:01:11,034 --> 00:01:12,531
+That was baller the way
+
+26
+00:01:12,536 --> 00:01:14,802
+you stopped that mean lady
+from murdering us.
+
+27
+00:01:16,773 --> 00:01:19,137
+I don't get it.
+
+28
+00:01:19,142 --> 00:01:21,343
+Why would Nora attack you?
+
+29
+00:01:23,079 --> 00:01:25,012
+I think she sees me as competition.
+
+30
+00:01:26,750 --> 00:01:29,748
+<i>[exciting music]</i>
+
+31
+00:01:29,753 --> 00:01:33,958
+<i>♪ ♪</i>
+
+32
+00:01:33,963 --> 00:01:41,463
 - Synced and corrected by<font color="#00BFFF"> Firefly</font> -
 - <font color="#00ffff">www.addic7ed.com</font> -
 
+33
+00:01:44,934 --> 00:01:46,498
+<i>Have we been able to locate Nora?</i>
+
+34
+00:01:46,503 --> 00:01:48,600
+There's no sign of her
+on our satellites.
+
+35
+00:01:48,605 --> 00:01:49,801
+She could be anywhere.
+
+36
+00:01:49,806 --> 00:01:51,270
+She's probably out there somewhere,
+
+37
+00:01:51,274 --> 00:01:52,336
+Sith-corrupting Deon.
+
+38
+00:01:52,341 --> 00:01:54,472
+I'm the reason he ran to Nora.
+
+39
+00:01:54,477 --> 00:01:55,907
+If anything happens to him...
+
+40
+00:01:55,912 --> 00:01:58,109
+He's a god too, won't he be safe?
+
+41
+00:01:58,114 --> 00:01:59,577
+None of us are.
+
+42
+00:01:59,582 --> 00:02:01,780
+- Not anymore.
+- Yeah, she's right.
+
+43
+00:02:01,785 --> 00:02:03,982
+It's only a matter of time
+before Nora senses
+
+44
+00:02:03,987 --> 00:02:06,217
+the other Forces are alive.
+
 45
-00:02:14,014 --> 00:02:16,979
-<i>[somber music]</i>
+00:02:06,222 --> 00:02:09,187
+Iris, it's up to us.
+We have to protect them.
 
 46
-00:02:16,984 --> 00:02:19,314
-<i>♪ ♪</i>
+00:02:09,192 --> 00:02:13,197
+If Nora wants Bashir
+and Alexa dead, then...
 
 47
-00:02:19,319 --> 00:02:21,149
-[scoffs] What a day.
+00:02:13,659 --> 00:02:14,859
+We need to hide them.
 
 48
-00:02:21,154 --> 00:02:23,819
-First, Frost is sent to
-Iron Heights for life,
+00:02:14,864 --> 00:02:16,727
+Hide them? Where? A.R.G.U.S.?
 
 49
-00:02:23,824 --> 00:02:26,054
-and now Alexa's dead.
+00:02:16,732 --> 00:02:19,197
+Guys, there's nowhere on Earth to hide
 
 50
-00:02:26,059 --> 00:02:28,323
-I can't let this happen again.
+00:02:19,202 --> 00:02:21,532
+from the Speed Force.
 
 51
-00:02:28,328 --> 00:02:30,192
-I'll get to work. I need to figure out
+00:02:21,537 --> 00:02:23,634
+Then we won't hide them on Earth.
 
 52
-00:02:30,197 --> 00:02:32,260
-how Nora was able to...
+00:02:23,639 --> 00:02:26,271
+There's only one place Nora can't go.
 
 53
-00:02:32,265 --> 00:02:33,861
-Kill a god?
+00:02:26,276 --> 00:02:28,724
+A place where she didn't exist
+for a few months.
 
 54
-00:02:33,866 --> 00:02:35,363
-She could because she had help.
+00:02:28,729 --> 00:02:30,474
+Like, in the past?
 
 55
-00:02:35,368 --> 00:02:37,098
-Barry, she tricked you.
+00:02:30,479 --> 00:02:33,043
+When Nora first died?
+Does that place still exist?
 
 56
-00:02:37,103 --> 00:02:38,200
-No, she manipulated me,
+00:02:33,048 --> 00:02:34,511
+It's a moment in time.
 
 57
-00:02:38,205 --> 00:02:40,069
-just like she's been doing
-the whole time.
+00:02:34,516 --> 00:02:36,180
+A dead zone that she can't access,
 
 58
-00:02:40,073 --> 00:02:43,304
-Honey, I know how you feel, but...
+00:02:36,185 --> 00:02:37,515
+but a Speedster can.
 
 59
-00:02:43,309 --> 00:02:45,573
-not everything she did
-and said was a lie.
+00:02:37,519 --> 00:02:40,017
+I can take Bashir and Alexa
+and once they're inside...
 
 60
-00:02:45,578 --> 00:02:47,179
-I mean, there were moments
-that felt real too.
+00:02:40,022 --> 00:02:42,585
+Once we're inside.
 
 61
-00:02:47,183 --> 00:02:50,113
-- That must mean...
-- Iris, we can't trust her anymore.
+00:02:42,590 --> 00:02:45,255
+They're my responsibility, too.
 
 62
-00:02:53,253 --> 00:02:55,383
-What about what Nora said
+00:02:45,260 --> 00:02:48,025
+<i>♪ ♪</i>
 
 63
-00:02:55,388 --> 00:02:57,888
-about you two creating the other forces?
+00:02:48,030 --> 00:02:50,027
+[thunder rumbles]
 
 64
-00:02:58,425 --> 00:03:00,255
-I mean, there's no proof.
+00:02:50,032 --> 00:02:51,895
+<i>I swear, that kid of ours</i>
 
 65
-00:03:00,260 --> 00:03:03,691
-Well, what if we find out
-if Nora's telling the truth?
+00:02:51,900 --> 00:02:54,131
+can sleep through absolutely anything.
 
 66
-00:03:03,696 --> 00:03:05,926
-If she is, then that means
-the other forces
+00:02:54,136 --> 00:02:55,465
+<i>Breaking news coming in</i>
 
 67
-00:03:05,931 --> 00:03:07,795
-would have been born
-the same day she was.
+00:02:55,470 --> 00:02:57,768
+<i>regarding the storm. Central City...</i>
 
 68
-00:03:07,800 --> 00:03:08,997
-I'll pull satellite scans
+00:02:57,773 --> 00:03:00,070
+- Babe, what happened?
+- Multiple lightning strikes
 
 69
-00:03:09,002 --> 00:03:10,332
-from the night we fought Mirror Monarch.
+00:03:00,075 --> 00:03:01,738
+took out a wall in Iron Heights.
 
 70
-00:03:10,336 --> 00:03:12,636
-Please, and thank you.
+00:03:01,743 --> 00:03:04,541
+Two dozen inmates escaped,
+most of them metas.
 
 71
-00:03:16,042 --> 00:03:19,073
-Okay, you see that cluster of
-kinetic energy readings?
+00:03:04,546 --> 00:03:06,009
+Oh no, what about Frost?
 
 72
-00:03:19,078 --> 00:03:21,508
-Pretty sure that's the Speed Force
+00:03:06,014 --> 00:03:09,213
+- You don't think that...
+- No.
 
 73
-00:03:21,513 --> 00:03:23,744
-being reborn in the Speed Lab.
+00:03:09,218 --> 00:03:12,685
+This storm is the perfect cover
+for criminals to lay siege.
 
 74
-00:03:23,749 --> 00:03:26,480
-Whoa. There they are.
+00:03:14,121 --> 00:03:15,754
+[groans]
 
 75
-00:03:26,485 --> 00:03:29,620
-Three brand-spanking-new
-isotopic signatures.
+00:03:17,691 --> 00:03:19,388
+You regret giving up
+your badge, don't you?
 
 76
-00:03:31,624 --> 00:03:34,288
-Nora was right.
+00:03:19,393 --> 00:03:21,023
+Well, if I hadn't...
 
 77
-00:03:34,293 --> 00:03:37,695
-We created the forces.
+00:03:21,028 --> 00:03:22,391
+I could help stop this.
 
 78
-00:03:40,866 --> 00:03:42,529
-<i>Fuerza's dead.</i>
+00:03:22,396 --> 00:03:23,993
+People are gonna get hurt, or worse.
 
 79
-00:03:42,534 --> 00:03:44,231
-Nora killed her.
+00:03:23,998 --> 00:03:26,262
+No, no, please don't do that
+to yourself.
 
 80
-00:03:44,236 --> 00:03:46,267
-She killed the Strength Force?
+00:03:26,267 --> 00:03:28,597
+[sighs]
 
 81
-00:03:46,272 --> 00:03:49,937
-And now she wants to kill
-the other two forces.
+00:03:28,602 --> 00:03:31,033
+I can't help anyone from a couch.
 
 82
-00:03:49,942 --> 00:03:53,240
-Maybe I should go to San Francisco.
+00:03:31,038 --> 00:03:32,735
+Yeah, maybe not, but you know what,
 
 83
-00:03:53,245 --> 00:03:55,109
-What?
+00:03:32,740 --> 00:03:33,904
+you can do more than you th...
 
 84
-00:03:55,114 --> 00:03:57,676
-My series of photos on Eva's attacks
+00:03:33,908 --> 00:03:36,705
+[lightning cracks]
 
 85
-00:03:57,681 --> 00:03:59,208
-got accepted at a gallery there.
+00:03:36,710 --> 00:03:39,408
+Cecile!
 
 86
-00:03:59,213 --> 00:04:00,513
-Babe, congrats!
+00:03:39,413 --> 00:03:42,411
+Cecile, Cecile.
 
 87
-00:04:00,518 --> 00:04:03,048
-[laughs] Well, I was thinking of going
+00:03:42,416 --> 00:03:46,215
+[thunder rumbles]
 
 88
-00:04:03,053 --> 00:04:04,953
-to help them install the exhibition.
+00:03:46,220 --> 00:03:49,218
+<i>[eerie music]</i>
 
 89
-00:04:04,958 --> 00:04:07,857
-I'd ask you to come, but I know
-you have your perfect job
+00:03:49,223 --> 00:03:53,428
+<i>♪ ♪</i>
 
 90
-00:04:07,862 --> 00:04:10,495
-at S.T.A.R. Labs and
-your amazing friends.
+00:03:54,362 --> 00:03:57,359
+This is the Speed Force?
 
 91
-00:04:10,500 --> 00:04:13,434
-I mean... you're an OG member
-of Team Flash.
+00:03:57,364 --> 00:03:59,094
+It was.
 
 92
-00:04:16,173 --> 00:04:18,303
-You okay?
+00:03:59,099 --> 00:04:01,062
+It was nice of the Addams Family
 
 93
-00:04:18,308 --> 00:04:19,604
-Yeah... [sighs]
+00:04:01,067 --> 00:04:03,167
+to lend you their place for the weekend.
 
 94
-00:04:19,609 --> 00:04:22,073
-Yeah, I'm fine.
+00:04:04,304 --> 00:04:06,301
+All right, I'm gonna go find Deon.
 
 95
-00:04:22,078 --> 00:04:25,476
-This is an isotopic scanning lens.
+00:04:06,306 --> 00:04:08,303
+If Nora somehow finds
+the three of you first...
 
 96
-00:04:25,481 --> 00:04:28,146
-It can detect the signatures
-of all four forces,
+00:04:08,308 --> 00:04:10,739
+Yeah. Use the transmat orb
+that Cisco gave me.
 
 97
-00:04:28,151 --> 00:04:30,949
-even kinetic signatures
-from Speed Force Nora.
+00:04:10,744 --> 00:04:12,775
+The hyper-tachyon particles
+inside will pull
 
 98
-00:04:30,954 --> 00:04:32,650
-And if one's nearby...
+00:04:12,780 --> 00:04:15,844
+any organic matter back to Central City.
 
 99
-00:04:32,655 --> 00:04:35,120
-It lights up like
-an overexposed landscape.
+00:04:15,849 --> 00:04:18,650
+We'll be safe. Go save our family.
 
 100
-00:04:35,125 --> 00:04:37,823
-In which case, you run the other way.
+00:04:20,887 --> 00:04:22,686
+Wouldn't you say goodbye? That was rude.
 
 101
-00:04:37,828 --> 00:04:40,461
-- [laughs]
-- Okay? I'm serious.
+00:04:22,691 --> 00:04:25,322
+Is he gonna be okay?
 
 102
-00:04:41,598 --> 00:04:43,797
-I just want you to be safe.
+00:04:25,327 --> 00:04:27,493
+Yeah, I'm sure it's... it's nothing.
 
 103
-00:04:45,868 --> 00:04:47,735
-Are you sure you're okay?
+00:04:28,462 --> 00:04:30,125
+You should get some rest.
 
 104
-00:04:50,206 --> 00:04:51,969
-[phone beeps]
+00:04:30,130 --> 00:04:32,428
+There's no telling how long
+we're gonna be here.
 
 105
-00:04:51,974 --> 00:04:53,504
-Ohh, it's Barry.
-
-106
-00:04:53,509 --> 00:04:55,840
-I gotta get back... they could
-have found Nora...
-
-107
-00:04:55,845 --> 00:04:57,778
-or worse, she's come back on her own.
-
-108
-00:05:00,884 --> 00:05:02,214
-How bad is it?
-
-109
-00:05:02,219 --> 00:05:04,082
-Okay... did Nora kill somebody else?
-
-110
-00:05:04,087 --> 00:05:06,585
-No, and I have a way to make
-sure she never does.
-
-111
-00:05:06,589 --> 00:05:08,486
-Okay, how?
-
-112
-00:05:08,491 --> 00:05:09,920
-- [running footsteps]
-- I'm here.
-
-113
-00:05:09,925 --> 00:05:11,922
-What's going on?
-
-114
-00:05:11,927 --> 00:05:13,924
-I spent all night
-
-115
-00:05:13,929 --> 00:05:15,793
-coming up with a way to fix all this.
-
-116
-00:05:15,798 --> 00:05:18,496
-Okay, what's the solve?
-
-117
-00:05:18,501 --> 00:05:21,565
-We need to wipe the new
-forces out of existence.
-
-118
-00:05:21,570 --> 00:05:23,267
-Barry, what are you saying?
-
-119
-00:05:23,272 --> 00:05:26,771
-I want to go back in time...
-and uncreate them.
-
-120
-00:05:26,776 --> 00:05:30,981
-<i>[suspenseful music]</i>
-
-121
-00:05:34,630 --> 00:05:37,685
-Barry, you're talking about
-creating another Flashpoint.
-
-122
-00:05:37,690 --> 00:05:39,030
-You know we can't do that.
-
-123
-00:05:39,035 --> 00:05:40,436
-Not if I can figure out a way to go back
-
-124
-00:05:40,440 --> 00:05:42,304
-that doesn't affect the timeline.
-
-125
-00:05:42,309 --> 00:05:44,559
-- Which would be impossible.
-- Barry, look.
-
-126
-00:05:44,564 --> 00:05:47,161
-I know that you're devastated
-about Alexa.
-
-127
-00:05:47,166 --> 00:05:49,863
-But uncreating forces?
-
-128
-00:05:49,868 --> 00:05:51,168
-That crosses a line.
-
-129
-00:05:51,173 --> 00:05:53,237
-I convinced Alexa to come here.
-
-130
-00:05:53,639 --> 00:05:55,835
-Her death is my fault.
-
-131
-00:05:55,840 --> 00:05:58,305
-If we don't get these new
-forces out of Psych and Deon,
-
-132
-00:05:58,310 --> 00:06:00,810
-Nora will kill them, too,
-so it's on us to fix this.
-
-133
-00:06:00,815 --> 00:06:03,477
-- By killing Deon and Psych?
-- No, I'm not killing them.
-
-134
-00:06:03,482 --> 00:06:05,945
-I'm saving them from the forces
-that took over their lives.
-
-135
-00:06:05,950 --> 00:06:07,149
-Whoever they were before this, they can
-
-136
-00:06:07,153 --> 00:06:08,718
-go back to being those
-same people again.
-
-137
-00:06:08,722 --> 00:06:11,319
-And what about the other force
-that was born that night?
-
-138
-00:06:11,823 --> 00:06:14,221
-- Nora. If you uncreate her...
-- We're only gonna target
-
-139
-00:06:14,226 --> 00:06:16,589
-the new forces, not Nora.
-That's the plan.
-
-140
-00:06:16,594 --> 00:06:18,291
-But if something goes wrong,
-
-141
-00:06:18,296 --> 00:06:20,093
-Barry, you might lose your speed.
-
-142
-00:06:20,098 --> 00:06:22,528
-Then I lose my speed. All right?
-
-143
-00:06:22,533 --> 00:06:25,164
-It's... it's worth the risk
-to keep everyone safe.
-
-144
-00:06:25,169 --> 00:06:27,166
-And what about the risk to Nora?
-
-145
-00:06:27,171 --> 00:06:28,702
-Does her life not matter at all any...
-
-146
-00:06:28,707 --> 00:06:31,805
-Nora's not a person, Iris.
-
-147
-00:06:32,610 --> 00:06:35,374
-She never was.
-
-148
-00:06:35,379 --> 00:06:38,477
-Look, if we uncreate these forces,
-
-149
-00:06:38,482 --> 00:06:40,914
-we can put everything back to normal.
-
-150
-00:06:40,919 --> 00:06:42,716
-Hopefully that'll fix her too.
-
-151
-00:06:42,721 --> 00:06:45,384
-Hopefully?
-
-152
-00:06:45,389 --> 00:06:47,553
-Barry, do you hear yourself right now?
-
-153
-00:06:47,558 --> 00:06:50,990
-Iris, I'm trying to save people.
-
-154
-00:06:50,995 --> 00:06:54,193
-How... how do you not see
-this is the right thing to do?
-
-155
-00:06:54,198 --> 00:06:55,695
-The right thing to do
-
-156
-00:06:55,700 --> 00:06:58,364
-would be trying to get through to Nora.
-
-157
-00:06:58,369 --> 00:07:00,164
-Just like how we beat Eva,
-
-158
-00:07:00,169 --> 00:07:01,965
-just like how we talked down
-Abra Kadabra.
-
-159
-00:07:01,970 --> 00:07:04,570
-- That is what we do.
-- We tried talking to her.
-
-160
-00:07:04,575 --> 00:07:06,639
-All Nora did was double down.
-
-161
-00:07:06,644 --> 00:07:09,375
-- [sighs]
-- There's no reaching her.
-
-162
-00:07:09,380 --> 00:07:11,277
-Obviously we disagree on this.
-
-163
-00:07:11,282 --> 00:07:14,347
-Yes, we do.
-
-164
-00:07:14,352 --> 00:07:15,914
-I have to do it.
-
-165
-00:07:15,919 --> 00:07:20,124
-<i>[somber music]</i>
-
-166
-00:07:20,129 --> 00:07:24,161
-Then you'll be doing it without me.
-
-167
-00:07:24,166 --> 00:07:28,371
-<i>♪ ♪</i>
-
-168
-00:07:31,068 --> 00:07:34,399
-Wait... you want to go
-after a force of nature?
-
-169
-00:07:34,404 --> 00:07:37,369
-Yeah, if I can convince Nora
-not to kill Deon and Psych,
-
-170
-00:07:37,374 --> 00:07:40,438
-then... Barry will see that
-she can be reasoned with.
-
-171
-00:07:40,443 --> 00:07:41,907
-But, how do we find her?
-
-172
-00:07:41,912 --> 00:07:43,742
-I mean, she's the freakin' Speed Force.
-
-173
-00:07:43,747 --> 00:07:44,947
-Well, if she finds us first,
-
-174
-00:07:44,952 --> 00:07:48,484
-at least we'll know she's coming.
-
-175
-00:07:48,489 --> 00:07:50,990
-Holy crap... you guys gotta see this.
-
-176
-00:07:53,523 --> 00:07:55,654
-You see that bright spot
-at the center of you?
-
-177
-00:07:55,659 --> 00:07:58,523
-I think that's kinetic energy.
-
-178
-00:07:58,528 --> 00:08:00,726
-Guys, this is gonna sound
-really wild, but...
-
-179
-00:08:00,731 --> 00:08:03,811
-Yeah, 'cause a ghost-hunting
-lens isn't weird enough...
-
-180
-00:08:03,816 --> 00:08:06,216
-But, if Barry and I created
-these forces,
-
-181
-00:08:06,221 --> 00:08:09,052
-what if there's a little bit of
-each of them inside of us?
-
-182
-00:08:09,057 --> 00:08:12,088
-Like you're all connected?
-
-183
-00:08:12,093 --> 00:08:14,090
-Wait, Iris... when
-you're over by the door,
-
-184
-00:08:14,095 --> 00:08:15,625
-your glow was brighter.
-
-185
-00:08:15,630 --> 00:08:17,230
-Like there's something in that direction
-
-186
-00:08:17,235 --> 00:08:18,898
-that was intensifying it.
-
-187
-00:08:18,903 --> 00:08:21,437
-- What if...
-- That something is Nora?
-
-188
-00:08:22,319 --> 00:08:26,524
-Guys, we can use me as a
-divining rod to track her down.
-
-189
-00:08:26,529 --> 00:08:29,596
-Yup, that's weirder.
-
-190
-00:08:32,029 --> 00:08:33,992
-Elemental Force Particles?
-
-191
-00:08:33,997 --> 00:08:36,228
-They're the particles
-that created the new forces.
-
-192
-00:08:36,233 --> 00:08:38,193
-The lightning bolt that
-rebirthed the Speed Force
-
-193
-00:08:38,198 --> 00:08:40,198
-- was full of them.
-- Now if we can extract
-
-194
-00:08:40,203 --> 00:08:42,704
-a sample of these force particles
-from the lightning,
-
-195
-00:08:42,709 --> 00:08:45,169
-then we can send out
-an electromagnetic pulse
-
-196
-00:08:45,174 --> 00:08:46,964
-that'll seek out those same particles,
-
-197
-00:08:46,969 --> 00:08:48,874
-wherever they may be
-along the temporal spectrum.
-
-198
-00:08:48,878 --> 00:08:52,376
-And you can erase the new
-forces from existence.
-
-199
-00:08:52,381 --> 00:08:54,211
-That's not bad.
-
-200
-00:08:54,216 --> 00:08:56,014
-Small detail, though.
-
-201
-00:08:56,019 --> 00:08:58,082
-How in the world are you supposed to
-
-202
-00:08:58,087 --> 00:09:02,419
-extract these particles
-from a giant bolt of lightning?
-
-203
-00:09:02,424 --> 00:09:05,156
-A few weeks ago when
-Barry was Spock-Flash,
-
-204
-00:09:05,161 --> 00:09:07,688
-he modified the Tachyon
-Enhancer to siphon
-
-205
-00:09:07,693 --> 00:09:09,593
-Mirror Monarch's dark matter photons.
-
-206
-00:09:09,598 --> 00:09:11,463
-So all we have to do
-is tweak the Enhancer
-
-207
-00:09:11,468 --> 00:09:14,101
-to siphon Force Particles
-instead of photons.
-
-208
-00:09:15,905 --> 00:09:17,801
-Tweaking the Tachyon Enhancer...
-
-209
-00:09:17,806 --> 00:09:21,038
-and then send out an EMP
-to eighty-six the forces.
-
-210
-00:09:21,043 --> 00:09:23,743
-That's genius. I mean
-it's foolproof, even.
-
-211
-00:09:26,081 --> 00:09:29,813
-But it still doesn't answer how
-we're supposed to do this
-
-212
-00:09:29,818 --> 00:09:32,950
-and protect the timeline.
-
-213
-00:09:32,955 --> 00:09:35,418
-I'll figure out. Somehow, I will.
-
-214
-00:09:35,423 --> 00:09:37,120
-I'll figure it out.
-
-215
-00:09:37,125 --> 00:09:40,157
-Man, I wish Nash Wells was here.
-
-216
-00:09:40,162 --> 00:09:42,192
-I mean, he came up with
-most of these equations
-
-217
-00:09:42,197 --> 00:09:43,217
-for the A.S.F. Machine.
-
-218
-00:09:43,222 --> 00:09:46,422
-I feel like he'd crack this easy peasy.
-
-219
-00:09:47,766 --> 00:09:49,396
-Modify the Particle Harness Collector.
-
-220
-00:09:49,401 --> 00:09:50,901
-I'll be back as soon as I can.
-
-221
-00:09:50,906 --> 00:09:54,269
-Roger that, but where are you going?
-
-222
-00:09:54,274 --> 00:09:56,942
-To get the one person that
-can help us pull this off.
-
-223
-00:09:58,000 --> 00:10:01,000
-_
-
-224
-00:10:03,320 --> 00:10:06,485
-Oh, no... Tess. [laughs]
-
-225
-00:10:06,490 --> 00:10:08,770
-President Bartlett
-just mixed up his meds.
-
-226
-00:10:08,775 --> 00:10:11,740
-That's not gonna be good,
-but... great TV.
-
-227
-00:10:11,745 --> 00:10:13,908
-- [whoosh]
-- Whoa!
-
-228
-00:10:13,913 --> 00:10:16,845
-[laughs]
-
-229
-00:10:16,850 --> 00:10:19,684
-Allen. Allen.
-
-230
-00:10:21,803 --> 00:10:23,800
-I'm guessing this isn't a social call?
-
-231
-00:10:23,805 --> 00:10:26,868
-Not exactly. We need your help.
-
-232
-00:10:26,873 --> 00:10:28,570
-How bad is it?
-
-233
-00:10:28,575 --> 00:10:30,739
-- That depends.
-- On...
-
-234
-00:10:30,744 --> 00:10:33,909
-Whether or not you can help
-us do the impossible.
-
-235
-00:10:33,914 --> 00:10:37,916
-<i>[suspenseful music]</i>
-
-236
-00:10:41,900 --> 00:10:44,865
-<i>[upbeat music]</i>
-
-237
-00:10:44,870 --> 00:10:48,335
-<i>♪ ♪</i>
-
-238
-00:10:48,340 --> 00:10:52,345
-Well, well, well. Honey, I'm home.
-
-239
-00:10:52,710 --> 00:10:56,343
-Holy deus ex machina... Timeless Wells.
-
-240
-00:10:56,348 --> 00:10:58,411
-[laughs]
-
-241
-00:10:58,416 --> 00:11:00,646
-- Perfect timing.
-- Always.
-
-242
-00:11:00,651 --> 00:11:03,315
-So, apparently, there's danger
-in Central City.
-
-243
-00:11:03,320 --> 00:11:05,284
-- Apparently.
-- Well, let's get busy.
-
-244
-00:11:05,289 --> 00:11:07,286
-Well, you really think
-
-245
-00:11:07,291 --> 00:11:09,621
-we can do this without
-affecting the timeline?
-
-246
-00:11:09,626 --> 00:11:11,123
-I know we can.
-
-247
-00:11:11,128 --> 00:11:13,158
-As long as we use me as your guide.
-
-248
-00:11:13,163 --> 00:11:15,195
-Harrison was there when
-the forces were created.
-
-249
-00:11:15,199 --> 00:11:17,129
-So if we used the other "him"
-from that night
-
-250
-00:11:17,134 --> 00:11:18,764
-as a beacon to lock onto...
-
-251
-00:11:18,769 --> 00:11:21,534
-Hopefully I can go back
-to that exact moment,
-
-252
-00:11:21,539 --> 00:11:24,169
-also bring Allen along for the ride,
-
-253
-00:11:24,174 --> 00:11:26,004
-and he'll collect the particles.
-
-254
-00:11:26,009 --> 00:11:29,174
-Oof, wait, so you can travel
-through time with a plus one?
-
-255
-00:11:29,179 --> 00:11:30,876
-It should work...
-
-256
-00:11:30,881 --> 00:11:33,481
-When Allen and I go back
-to that exact moment
-
-257
-00:11:33,486 --> 00:11:36,451
-that those dangerous forces
-were created 17 days ago,
-
-258
-00:11:36,456 --> 00:11:40,288
-I will... I will create
-a protective-time bubble
-
-259
-00:11:40,293 --> 00:11:43,108
-from that moment until now,
-
-260
-00:11:43,113 --> 00:11:45,711
-preserving those days in this timeline,
-
-261
-00:11:45,716 --> 00:11:49,821
-and preventing anything from changing.
-
-262
-00:11:50,215 --> 00:11:54,820
-Which would also allow us
-to wipe out the new forces
-
-263
-00:11:54,825 --> 00:11:57,656
-without altering any of the events
-
-264
-00:11:57,661 --> 00:11:59,024
-that have happened since then...
-
-265
-00:11:59,029 --> 00:12:01,994
-[laughs] Yo! That is... that is trippy.
-
-266
-00:12:01,999 --> 00:12:03,663
-Cisco, this will work.
-
-267
-00:12:03,668 --> 00:12:05,264
-What about Iris?
-
-268
-00:12:05,269 --> 00:12:07,967
-When she sees everyone safe,
-she'll come around.
-
-269
-00:12:07,972 --> 00:12:09,402
-She has to.
-
-270
-00:12:09,407 --> 00:12:12,338
-You're not convinced. I wasn't either,
-
-271
-00:12:12,343 --> 00:12:14,710
-when Allen told me about this,
-I thought of Tess.
-
-272
-00:12:16,513 --> 00:12:19,944
-I thought of my wife, and how
-my future with Tess was...
-
-273
-00:12:19,949 --> 00:12:21,879
-ripped from me.
-
-274
-00:12:21,884 --> 00:12:23,548
-Until this gift...
-
-275
-00:12:23,553 --> 00:12:28,458
-which has allowed me to relive
-every single day with Tess,
-
-276
-00:12:28,991 --> 00:12:31,789
-but only...
-
-277
-00:12:31,794 --> 00:12:33,258
-because I took a chance.
-
-278
-00:12:33,263 --> 00:12:36,194
-<i>[dramatic music]</i>
-
-279
-00:12:36,199 --> 00:12:40,404
-<i>♪ ♪</i>
-
-280
-00:12:43,172 --> 00:12:44,902
-All right.
-
-281
-00:12:44,907 --> 00:12:46,708
-I'm in.
-
-282
-00:12:52,414 --> 00:12:54,548
-It's brighter. We must be getting close.
-
-283
-00:12:58,420 --> 00:13:00,451
-She should be here.
-
-284
-00:13:00,456 --> 00:13:02,924
-Maybe it was a false positive.
-
-285
-00:13:05,027 --> 00:13:06,891
-Maybe since Nora is the Speed Force,
-
-286
-00:13:06,896 --> 00:13:09,293
-her isotopic signature is
-all over the city by now.
-
-287
-00:13:09,298 --> 00:13:11,362
-- So what do we do?
-- I don't know.
-
-288
-00:13:11,367 --> 00:13:13,497
-But we are running out of time.
-
-289
-00:13:13,502 --> 00:13:15,732
-Well, Cisco always says
-you can't solve a problem
-
-290
-00:13:15,737 --> 00:13:17,236
-till you're asking the right question.
-
-291
-00:13:17,240 --> 00:13:19,803
-Isn't "Where's Nora's
-kinetic energy leading us"
-
-292
-00:13:19,808 --> 00:13:22,206
-the right question?
-
-293
-00:13:22,211 --> 00:13:23,775
-No.
-
-294
-00:13:23,780 --> 00:13:26,443
-The right question is "Where's Nora?"
-
-295
-00:13:26,448 --> 00:13:28,345
-We've been trying to find
-the Speed Force
-
-296
-00:13:28,350 --> 00:13:31,415
-when we should be looking
-for... the person.
-
-297
-00:13:31,420 --> 00:13:35,218
-So where would the real Nora Allen go?
-
-298
-00:13:35,223 --> 00:13:37,187
-Home.
-
-299
-00:13:37,192 --> 00:13:38,589
-Come on.
-
-300
-00:13:38,594 --> 00:13:42,559
-<i>[playful music]</i>
-
-301
-00:13:42,564 --> 00:13:45,296
-Harness modifications complete.
-
-302
-00:13:45,301 --> 00:13:47,634
-Let's get some time particles.
-
-303
-00:13:49,305 --> 00:13:51,402
-Actually, you know what? Um...
-
-304
-00:13:51,407 --> 00:13:53,737
-Let me just run one more diagnostic
-
-305
-00:13:53,742 --> 00:13:55,806
-on the collection disc.
-
-306
-00:13:55,811 --> 00:13:59,312
-[muttering] I just need
-one more, just one more...
-
-307
-00:14:06,287 --> 00:14:09,752
-Oh, frak.
-
-308
-00:14:09,757 --> 00:14:12,087
-Yo, yo, Deon. [laughs]
-
-309
-00:14:12,092 --> 00:14:13,623
-What's... what's uh...
-
-310
-00:14:13,628 --> 00:14:16,462
-- What's good, man?
-- You tell me.
-
-311
-00:14:17,898 --> 00:14:20,299
-Something drew me here.
-
-312
-00:14:21,202 --> 00:14:22,898
-Was it you?
-
-313
-00:14:22,903 --> 00:14:24,834
-I'm... I don't think it was...
-
-314
-00:14:24,839 --> 00:14:27,903
-Who's this? I'm sorry, who are you?
-
-315
-00:14:27,908 --> 00:14:29,672
-Who am I? Who are you?
-
-316
-00:14:29,677 --> 00:14:31,073
-- Who is he?
-- [nervous laughs]
-
-317
-00:14:31,078 --> 00:14:33,408
-Look, guys, all's good in the hood.
-
-318
-00:14:33,413 --> 00:14:34,844
-All right, look.
-
-319
-00:14:34,849 --> 00:14:37,546
-Barry, this is Deon.
-
-320
-00:14:37,551 --> 00:14:40,249
-Still Force.
-
-321
-00:14:40,254 --> 00:14:42,017
-And... and Deon, this is Barry,
-
-322
-00:14:42,022 --> 00:14:44,119
-who's actually...
-
-323
-00:14:44,124 --> 00:14:48,329
-owner of this, uh, fine establishment.
-
-324
-00:14:49,930 --> 00:14:52,361
-So you're the landlord.
-
-325
-00:14:52,366 --> 00:14:55,030
-What's that got to do with anything?
-
-326
-00:14:55,035 --> 00:14:57,166
-Deon...
-
-327
-00:14:57,171 --> 00:14:58,901
-it's good to meet you.
-
-328
-00:14:58,906 --> 00:15:00,535
-Actually, you remember me?
-
-329
-00:15:00,540 --> 00:15:02,468
-I was with him, you called us
-one of the Urkels.
-
-330
-00:15:02,473 --> 00:15:04,373
-Oh, yeah... the cornballs.
-
-331
-00:15:04,378 --> 00:15:07,011
-[laughs] Cornball. He's so funny.
-
-332
-00:15:08,214 --> 00:15:09,446
-Who's the egghead?
-
-333
-00:15:11,184 --> 00:15:13,147
-Harrison Wells.
-
-334
-00:15:13,152 --> 00:15:14,785
-I'm a fellow...
-
-335
-00:15:16,489 --> 00:15:19,490
-Uh, visitor to Barry's place.
-
-336
-00:15:21,027 --> 00:15:24,725
-You know, y'all are being
-real friendly right now.
-
-337
-00:15:24,730 --> 00:15:27,362
-But I think... [snickers]
-
-338
-00:15:27,367 --> 00:15:28,963
-I think y'all are acting like that
-
-339
-00:15:28,968 --> 00:15:31,102
-because you're afraid of me.
-
-340
-00:15:33,106 --> 00:15:34,806
-- Now why is that?
-- No, we're just...
-
-341
-00:15:34,811 --> 00:15:37,338
-we're just making a... we're just
-doing an experiment...
-
-342
-00:15:37,343 --> 00:15:38,873
-Shut up!
-
-343
-00:15:38,878 --> 00:15:41,876
-<i>[tense chords]</i>
-
-344
-00:15:41,881 --> 00:15:46,086
-<i>♪ ♪</i>
-
-345
-00:15:54,927 --> 00:15:57,024
-Now...
-
-346
-00:15:57,029 --> 00:16:01,234
-why do I get the feeling...
-
-347
-00:16:01,239 --> 00:16:03,605
-you're reason I'm this way?
-
-348
-00:16:06,772 --> 00:16:09,970
-Because that's true.
-
-349
-00:16:09,975 --> 00:16:12,105
-And I'm sorry.
-
-350
-00:16:12,110 --> 00:16:14,875
-I never meant for this to happen.
-
-351
-00:16:14,880 --> 00:16:17,944
-- So please let me fix it.
-- Fix it?
-
-352
-00:16:17,949 --> 00:16:20,513
-Fix it? So I'm a mistake?
-
-353
-00:16:20,518 --> 00:16:23,519
-- I didn't say that...
-- You didn't have to.
-
-354
-00:16:25,457 --> 00:16:27,957
-I can feel it.
-
-355
-00:16:32,430 --> 00:16:36,095
-- You want to destroy me.
-- No, I want to save you.
-
-356
-00:16:36,100 --> 00:16:38,300
-Deon... Deon.
-
-357
-00:16:40,404 --> 00:16:43,202
-There are three other forces...
-people like you.
-
-358
-00:16:43,207 --> 00:16:47,212
-One of them? She wants to kill you.
-
-359
-00:16:48,079 --> 00:16:50,843
-Now, she's already killed
-one of the other forces...
-
-360
-00:16:50,848 --> 00:16:53,511
-the Strength Force, and she didn't care
-
-361
-00:16:53,516 --> 00:16:57,521
-when the person containing
-that force died too.
-
-362
-00:16:58,355 --> 00:17:02,560
-So I need to make it so the
-Still Force never found you.
-
-363
-00:17:03,460 --> 00:17:05,991
-It's the only way to keep you safe.
-
-364
-00:17:05,996 --> 00:17:09,427
-<i>[tense tones]</i>
-
-365
-00:17:09,432 --> 00:17:12,598
-[whispers] Nah.
-
-366
-00:17:12,603 --> 00:17:14,636
-I like being me.
-
-367
-00:17:22,445 --> 00:17:23,945
-Oh, I get it.
-
-368
-00:17:26,148 --> 00:17:28,312
-- Oh, I get it.
-- Yeah?
-
-369
-00:17:28,317 --> 00:17:29,647
-No, I get it. I get it.
-
-370
-00:17:29,652 --> 00:17:31,415
-This is what you're gonna
-use to do it, huh?
-
-371
-00:17:31,420 --> 00:17:32,551
-This is what you're gonna use
-
-372
-00:17:32,555 --> 00:17:34,051
-to make it like I never existed?
-
-373
-00:17:34,056 --> 00:17:36,086
-Not you, just the force inside...
-
-374
-00:17:36,091 --> 00:17:38,492
-Man, I am that force!
-
-375
-00:17:40,462 --> 00:17:41,959
-Do you have any idea what it's like
-
-376
-00:17:41,964 --> 00:17:44,131
-to be told that you shouldn't be here?
-
-377
-00:17:47,670 --> 00:17:51,702
-I never asked to be born.
-
-378
-00:17:51,707 --> 00:17:53,237
-Deon, listen to me.
-
-379
-00:17:53,242 --> 00:17:55,673
-Look at what you're doing.
-
-380
-00:17:55,678 --> 00:17:58,442
-Okay, you... you don't
-understand what you are.
-
-381
-00:17:58,447 --> 00:18:01,447
-Yeah, I do.
-
-382
-00:18:03,484 --> 00:18:06,683
-I'm a god.
-
-383
-00:18:06,688 --> 00:18:10,053
-Maybe it's time you understood that.
-
-384
-00:18:10,058 --> 00:18:11,357
-Deon, wait...
-
-385
-00:18:15,997 --> 00:18:17,931
-Time to bounce.
-
-386
-00:18:18,833 --> 00:18:20,533
-... right?
-
-387
-00:18:24,806 --> 00:18:26,839
-What the hell just happened?
-
-388
-00:18:31,912 --> 00:18:34,510
-I think your friend Deon
-just stopped time.
-
-389
-00:18:34,515 --> 00:18:36,379
-Yeah, he does that.
-
-390
-00:18:36,384 --> 00:18:38,881
-Why'd he leave?
-
-391
-00:18:38,886 --> 00:18:41,053
-Because I couldn't stop him.
-
-392
-00:18:47,340 --> 00:18:49,940
-Deon just aged the harness
-a thousand years.
-
-393
-00:18:49,945 --> 00:18:52,576
-- How bad is it?
-- Pretty bad.
-
-394
-00:18:52,581 --> 00:18:55,505
-But not hopeless.
-
-395
-00:18:55,510 --> 00:18:58,975
-See I figured if we can find
-some way to...
-
-396
-00:18:58,980 --> 00:19:01,347
-somehow create some sort of...
-
-397
-00:19:04,245 --> 00:19:07,245
-I was working on the collection
-disc when Deon showed up.
-
-398
-00:19:07,250 --> 00:19:08,811
-I figured I better hide it just in case.
-
-399
-00:19:08,815 --> 00:19:10,812
-[laughs] Chester.
-
-400
-00:19:10,817 --> 00:19:12,351
-You're a lifesaver.
-
-401
-00:19:12,356 --> 00:19:15,053
-[laughs] As for the vest,
-
-402
-00:19:15,058 --> 00:19:16,921
-I'm used to working with junk.
-
-403
-00:19:16,926 --> 00:19:18,991
-I'll just need a bunch of
-replacement parts
-
-404
-00:19:18,996 --> 00:19:21,426
-from my garage and she'll be up
-and running in no time.
-
-405
-00:19:21,431 --> 00:19:24,799
-- With a little help, that is.
-- I'm with you.
-
-406
-00:19:31,641 --> 00:19:33,141
-What's up?
-
-407
-00:19:34,511 --> 00:19:36,641
-I think Deon's right.
-
-408
-00:19:36,646 --> 00:19:38,577
-We can't just...
-
-409
-00:19:38,582 --> 00:19:41,716
-uncreate these forces like that.
-
-410
-00:19:42,752 --> 00:19:44,616
-Uh... so what, we... we...
-
-411
-00:19:44,621 --> 00:19:47,352
-we should just give up?
-
-412
-00:19:47,357 --> 00:19:49,354
-On this? Yeah, we give up.
-
-413
-00:19:49,359 --> 00:19:52,159
-Doesn't that feel like
-the right thing to do?
-
-414
-00:19:55,332 --> 00:19:57,862
-Cisco, Nora will kill him
-
-415
-00:19:57,867 --> 00:19:59,964
-if I don't do something to prevent it.
-
-416
-00:19:59,969 --> 00:20:02,166
-Just like she killed Alexa.
-
-417
-00:20:02,171 --> 00:20:04,569
-'Cause she's not gonna stop
-until all the forces...
-
-418
-00:20:04,574 --> 00:20:07,839
-and the people connected
-to them... are dead.
-
-419
-00:20:07,844 --> 00:20:10,207
-Why can't you see?
-I'm trying to save him.
-
-420
-00:20:10,212 --> 00:20:12,544
-He doesn't want to be saved by you!
-
-421
-00:20:12,549 --> 00:20:15,817
-He just wants to be given
-the chance to be himself.
-
-422
-00:20:18,054 --> 00:20:20,184
-And Iris understood that.
-
-423
-00:20:20,189 --> 00:20:23,821
-Look, every second that
-we leave these forces
-
-424
-00:20:23,826 --> 00:20:26,490
-inside Deon and Psych,
-people are in danger.
-
-425
-00:20:26,495 --> 00:20:28,925
-It's only a matter of time
-before someone dies
-
-426
-00:20:28,930 --> 00:20:30,161
-in one of Psych's nightmares
-
-427
-00:20:30,166 --> 00:20:33,064
-or gets killed by some kind
-of Deon time anomaly.
-
-428
-00:20:33,069 --> 00:20:35,800
-Not to mention Nora declared war.
-
-429
-00:20:35,805 --> 00:20:37,935
-She doesn't care how many
-people she kills
-
-430
-00:20:37,940 --> 00:20:39,668
-as long as the forces die.
-
-431
-00:20:39,673 --> 00:20:42,337
-You're right. Yes,
-you're absolutely right.
-
-432
-00:20:42,342 --> 00:20:44,142
-And something needs
-to be done about that.
-
-433
-00:20:44,147 --> 00:20:46,644
-And I don't have all the answers.
-
-434
-00:20:46,649 --> 00:20:49,546
-All I know is...
-
-435
-00:20:49,551 --> 00:20:52,549
-this can't be it.
-
-436
-00:20:52,554 --> 00:20:56,559
-<i>[tense music]</i>
-
-437
-00:20:57,225 --> 00:20:59,555
-You guys understand, right?
-
-438
-00:20:59,560 --> 00:21:02,728
-I... I have to uncreate these forces.
-
-439
-00:21:04,565 --> 00:21:08,234
-Like I said, I am... I'm
-Team Flash all the way.
-
-440
-00:21:09,971 --> 00:21:11,835
-But...
-
-441
-00:21:11,840 --> 00:21:14,407
-Cisco has a point, man.
-
-442
-00:21:18,246 --> 00:21:19,542
-Harrison?
-
-443
-00:21:19,547 --> 00:21:21,878
-If uncreating these forces is
-
-444
-00:21:21,883 --> 00:21:23,379
-what you feel in your heart is right,
-
-445
-00:21:23,384 --> 00:21:25,548
-I'll take that voyage with you.
-
-446
-00:21:25,553 --> 00:21:29,758
-But all I ask is that you
-think... truly think
-
-447
-00:21:30,724 --> 00:21:33,122
-about the choice you're making.
-
-448
-00:21:33,127 --> 00:21:35,524
-[inhales]
-
-449
-00:21:35,529 --> 00:21:37,129
+00:04:32,433 --> 00:04:34,897
 [exhales]
 
-450
-00:21:41,869 --> 00:21:43,969
-Please fix the harness.
-
-451
-00:21:48,042 --> 00:21:51,076
-Good luck.
-
-452
-00:21:55,316 --> 00:21:59,521
-<i>[eerie tones]</i>
-
-453
-00:22:00,520 --> 00:22:01,983
-Iris, you were right.
-
-454
-00:22:01,988 --> 00:22:04,819
-These isotopic readings
-are off the chart.
-
-455
-00:22:04,824 --> 00:22:06,988
-Where are we?
-
-456
-00:22:06,993 --> 00:22:08,723
-The old Allen house.
-
-457
-00:22:08,728 --> 00:22:12,793
-This is where Barry's mom was killed.
-
-458
-00:22:12,798 --> 00:22:15,733
-He also said this is where the
-Speed Force went when she died.
-
-459
-00:22:18,338 --> 00:22:21,635
-Whoa. That old car is hella vintage.
-
-460
-00:22:21,640 --> 00:22:23,507
-Almost looks brand new.
-
-461
-00:22:24,443 --> 00:22:27,041
-Must be a collector or something.
-
-462
-00:22:27,046 --> 00:22:28,943
-We can ask him when we're done.
-
-463
-00:22:28,948 --> 00:22:30,945
-Assuming we survive.
-
-464
-00:22:30,950 --> 00:22:35,155
-<i>[tense music]</i>
-
-465
-00:22:37,155 --> 00:22:40,023
-<i>Caitlin called me about Alexa.</i>
-
-466
-00:22:41,159 --> 00:22:43,223
-So it turns out,
-
-467
-00:22:43,228 --> 00:22:46,626
-when Iris and I brought back
-the Speed Force,
-
-468
-00:22:46,631 --> 00:22:50,900
-we also created three new forces.
-
-469
-00:22:52,204 --> 00:22:55,936
-It's our fault that they're out
-in the world hurting people.
-
-470
-00:22:55,941 --> 00:22:57,971
-Killing them.
-
-471
-00:22:57,976 --> 00:23:00,107
-So I feel like...
-
-472
-00:23:00,112 --> 00:23:03,176
-I have to be the one to take them out.
-
-473
-00:23:03,181 --> 00:23:05,612
-These forces.
-
-474
-00:23:05,617 --> 00:23:09,548
-You think they're above saving, too?
-
-475
-00:23:09,553 --> 00:23:14,458
-I think it would be safer for
-everybody if they didn't exist.
-
-476
-00:23:15,426 --> 00:23:18,457
-You remember when Wally first showed up?
-
-477
-00:23:18,462 --> 00:23:21,694
-Man, it wasn't just that
-I'd found out I have a son.
-
-478
-00:23:21,699 --> 00:23:23,095
-I found out
-
-479
-00:23:23,100 --> 00:23:27,405
-I have a son who kept getting
-his butt in trouble.
-
-480
-00:23:27,938 --> 00:23:31,003
-Boy, he was mad at the world.
-
-481
-00:23:31,008 --> 00:23:33,139
-There was one point
-
-482
-00:23:33,144 --> 00:23:36,745
-he said to me that he wished
-he had never been born.
-
-483
-00:23:37,614 --> 00:23:41,819
-So I tried to get close.
-
-484
-00:23:42,719 --> 00:23:44,816
-And he pushed me away.
-
-485
-00:23:44,821 --> 00:23:47,319
-I tried to give him space,
-
-486
-00:23:47,324 --> 00:23:49,554
-then he felt abandoned.
-
-487
-00:23:49,559 --> 00:23:51,856
-No parent is perfect.
-
-488
-00:23:51,861 --> 00:23:55,260
-But one thing I never stopped doing
-
-489
-00:23:55,265 --> 00:23:57,395
-was trying.
-
-490
-00:23:57,400 --> 00:23:59,664
-And look at the man he grew up to be.
-
-491
-00:23:59,669 --> 00:24:03,974
-Strong. Kind. Good.
-
-492
-00:24:03,979 --> 00:24:07,077
-Yeah I get it, I... I do, but...
-
-493
-00:24:07,710 --> 00:24:09,774
-I mean, these forces?
-
-494
-00:24:09,779 --> 00:24:12,277
-- They're not my children.
-- You sure?
-
-495
-00:24:12,282 --> 00:24:15,213
-You said it yourself.
-
-496
-00:24:15,218 --> 00:24:17,881
-You brought them into this world.
-
-497
-00:24:17,886 --> 00:24:21,891
-Look, I know they've all done
-terrible things.
-
-498
-00:24:22,591 --> 00:24:25,322
-But what if they could change?
-
-499
-00:24:25,327 --> 00:24:30,832
-You never judge your kids
-for who they are now.
-
-500
-00:24:31,800 --> 00:24:34,431
-You help them become...
-
-501
-00:24:34,436 --> 00:24:39,041
-who they know they can be
-when they grow up.
-
-502
-00:24:39,975 --> 00:24:43,043
-So lead with love.
-
-503
-00:24:43,878 --> 00:24:48,083
-After that, it is up to them.
-
-504
-00:24:48,617 --> 00:24:51,715
-<i>[hopeful music]</i>
-
-505
-00:24:51,720 --> 00:24:55,284
-<i>[eerie tones]</i>
-
-506
-00:24:55,289 --> 00:24:59,494
+106
+00:04:34,902 --> 00:04:39,107
 <i>♪ ♪</i>
 
-507
-00:25:06,835 --> 00:25:08,467
-This is Barry's old room.
+107
+00:04:40,974 --> 00:04:43,538
+<i>[tense tones]</i>
 
-508
-00:25:29,990 --> 00:25:31,356
-Nora?
+108
+00:04:43,543 --> 00:04:45,944
+<i>♪ ♪</i>
 
-509
-00:25:36,997 --> 00:25:39,194
-<i>[dramatic musical sting]</i>
+109
+00:04:47,613 --> 00:04:49,644
+I've been looking everywhere for you.
 
-510
-00:25:39,199 --> 00:25:42,565
-<i>[eerie music]</i>
+110
+00:04:49,649 --> 00:04:51,246
+Where were you?
 
-511
-00:25:42,570 --> 00:25:43,735
-Psych.
-
-512
-00:25:46,273 --> 00:25:48,938
+111
+00:04:51,251 --> 00:04:54,018
 <i>[dramatic music]</i>
 
+112
+00:04:55,788 --> 00:04:57,585
+Nora?
+
+113
+00:04:57,590 --> 00:05:00,322
+- What happened to you?
+- I couldn't feel you at all.
+
+114
+00:05:00,327 --> 00:05:02,327
+Which shouldn't be possible.
+
+115
+00:05:03,796 --> 00:05:05,427
+You brought me here?
+
+116
+00:05:05,432 --> 00:05:07,095
+I had to make sure you were safe.
+
+117
+00:05:07,100 --> 00:05:10,132
+From who? From you?
+
+118
+00:05:10,137 --> 00:05:12,100
+You tried to kill them, Nora.
+
+119
+00:05:12,105 --> 00:05:13,969
+- Even Iris.
+- And I let you live.
+
+120
+00:05:13,974 --> 00:05:15,837
+For a reason.
+
+121
+00:05:15,842 --> 00:05:19,941
+Do you have any idea what death is like?
+
+122
+00:05:19,946 --> 00:05:21,576
+It's an agonizing emptiness
+
+123
+00:05:21,581 --> 00:05:23,481
+that turns your soul inside out.
+
+124
+00:05:24,751 --> 00:05:27,515
+And that loneliness it brings?
+
+125
+00:05:27,520 --> 00:05:29,984
+- It burns.
+- Iris and I brought you back.
+
+126
+00:05:29,989 --> 00:05:32,186
+You brought them back too.
+
+127
+00:05:32,191 --> 00:05:35,289
+As soon as I was reborn,
+I could feel those new forces
+
+128
+00:05:35,294 --> 00:05:37,658
+trying to snuff out my existence.
+
+129
+00:05:37,663 --> 00:05:40,027
+They wanted to drag me back
+into the darkness, Barry.
+
+130
+00:05:40,032 --> 00:05:41,929
+But I won't let them.
+
+131
+00:05:41,934 --> 00:05:45,132
+Now bring my brothers
+and sister to me...
+
+132
+00:05:45,137 --> 00:05:46,971
+[distorted voice] Or your city dies.
+
+133
+00:05:48,975 --> 00:05:51,976
+[thunder rumbles]
+
+134
+00:05:57,416 --> 00:06:00,414
+<i>[suspenseful music]</i>
+
+135
+00:06:00,419 --> 00:06:03,920
+<i>♪ ♪</i>
+
+136
+00:06:07,293 --> 00:06:09,093
+[alarm beeping]
+
+137
+00:06:09,098 --> 00:06:10,627
+We've got Category 3 winds
+
+138
+00:06:10,632 --> 00:06:13,263
+and over 22 lightning strikes a minute.
+
+139
+00:06:13,268 --> 00:06:14,565
+It's Nora.
+
+140
+00:06:14,570 --> 00:06:16,002
+She says she's gonna tear the city apart
+
+141
+00:06:16,006 --> 00:06:17,502
+unless I bring her all three Forces.
+
+142
+00:06:17,507 --> 00:06:19,136
+I gotta find Deon before she does.
+
+143
+00:06:19,141 --> 00:06:21,038
+Oh, I got your back on that, Flash.
+
+144
+00:06:21,043 --> 00:06:22,540
+I rebuilt the isotopic sensor.
+
+145
+00:06:22,545 --> 00:06:24,309
+Now, all you need to do
+is sweep through the city
+
+146
+00:06:24,313 --> 00:06:26,378
+in a standard grid pattern,
+and it'll sound off
+
+147
+00:06:26,383 --> 00:06:27,480
+once you're within a hundred yards
+
+148
+00:06:27,484 --> 00:06:29,246
+- of our teenage time god.
+- All right.
+
+149
+00:06:29,251 --> 00:06:31,115
+Now all you need is
+a little mecha back-up.
+
+150
+00:06:31,120 --> 00:06:32,315
+Not this time.
+
+151
+00:06:32,320 --> 00:06:33,718
+I need you and Chester on comms.
+
+152
+00:06:33,722 --> 00:06:34,985
+But Deon knows us.
+
+153
+00:06:34,990 --> 00:06:37,421
+- We can help.
+- Bringing Deon in is my responsibility.
+
+154
+00:06:37,426 --> 00:06:38,789
+But we need to find a way to stop Nora.
+
+155
+00:06:38,793 --> 00:06:40,456
+So focus on that.
+
+156
+00:06:40,461 --> 00:06:43,425
+<i>[suspenseful music]</i>
+
+157
+00:06:43,430 --> 00:06:45,561
+- [lightning cracks]
+- _
+
+158
+00:06:45,566 --> 00:06:49,165
+<i>[dramatic music]</i>
+
+159
+00:06:49,170 --> 00:06:51,134
+Mark.
+
+160
+00:06:51,139 --> 00:06:53,335
+You need to turn yourself in. Now.
+
+161
+00:06:53,340 --> 00:06:57,006
+[inhales sharply, exhales]
+
+162
+00:06:57,011 --> 00:06:58,941
+Ladies first, Snowflake.
+
+163
+00:06:58,946 --> 00:07:01,811
+After all, we're both escaped
+prisoners tonight.
+
+164
+00:07:01,816 --> 00:07:03,413
+A little something else
+we have in common.
+
+165
+00:07:03,417 --> 00:07:04,847
+I didn't escape.
+
+166
+00:07:04,852 --> 00:07:06,415
+I came here to turn you in.
+
+167
+00:07:06,420 --> 00:07:08,085
+Yeah, that's still breaking
+out of prison.
+
+168
+00:07:08,089 --> 00:07:10,319
+Look, before you try to impale me again,
+
+169
+00:07:10,324 --> 00:07:12,055
+I just want to say...
+
+170
+00:07:12,060 --> 00:07:13,690
+I forgive you.
+
+171
+00:07:13,695 --> 00:07:15,391
+You what?
+
+172
+00:07:15,396 --> 00:07:17,525
+You tried to murder me last time.
+
+173
+00:07:17,530 --> 00:07:19,327
+What do you want me to say?
+
+174
+00:07:19,332 --> 00:07:21,163
+You're a hero, and I'm a bad guy.
+
+175
+00:07:21,168 --> 00:07:23,165
+We all do what we gotta do.
+
+176
+00:07:23,170 --> 00:07:24,533
+Like this.
+
+177
+00:07:24,538 --> 00:07:27,502
+I really needed these biotech
+interfaces for my work, so.
+
+178
+00:07:27,507 --> 00:07:29,337
+- So you stole them.
+- Hey.
+
+179
+00:07:29,342 --> 00:07:31,439
+If I can ignore your stabby faults,
+
+180
+00:07:31,444 --> 00:07:32,809
+then the least you can do is ignore
+
+181
+00:07:32,813 --> 00:07:34,876
+my klepto ones, maybe?
+
+182
+00:07:34,881 --> 00:07:37,179
+Besides, I'm all done here.
+You want to get a drink?
+
+183
+00:07:37,184 --> 00:07:38,746
+You already know I make a mean martini.
+
+184
+00:07:38,751 --> 00:07:40,748
+No, not happening.
+
+185
+00:07:40,753 --> 00:07:43,051
+Come on, we had so much fun last time.
+
+186
+00:07:43,056 --> 00:07:45,187
+You know, before the whole
+attempted murder part.
+
+187
+00:07:45,192 --> 00:07:47,856
+Would you stop bringing that up, okay?
+
+188
+00:07:47,861 --> 00:07:49,127
+You're probably right.
+
+189
+00:07:50,396 --> 00:07:53,293
+I will say this.
+
+190
+00:07:53,298 --> 00:07:57,397
+You are the first person
+I've met in a very long time
+
+191
+00:07:57,402 --> 00:07:59,366
+that I don't want to try
+and kill a second time.
+
+192
+00:07:59,371 --> 00:08:03,570
+<i>♪ ♪</i>
+
+193
+00:08:03,575 --> 00:08:05,272
+- So how about that drink?
+- No.
+
+194
+00:08:05,277 --> 00:08:08,042
+There is no freaking way
+I would ever go out with you.
+
+195
+00:08:08,047 --> 00:08:09,643
+Wait, hold on, are you...
+
+196
+00:08:09,648 --> 00:08:11,349
+Are you talking about dinner
+and the whole nine yards?
+
+197
+00:08:11,353 --> 00:08:14,114
+Look, would you just
+stop doing that, all right?
+
+198
+00:08:14,119 --> 00:08:16,350
+What? Just trying to get
+a little clarity.
+
+199
+00:08:16,355 --> 00:08:18,085
+That right there, just... stop it.
+
+200
+00:08:18,090 --> 00:08:20,420
+It is okay if you're into me.
+
+201
+00:08:20,425 --> 00:08:23,390
+For the last time, I am not into you.
+
+202
+00:08:23,395 --> 00:08:24,759
+Hm.
+
+203
+00:08:24,764 --> 00:08:27,661
+Then why don't you stop staring
+at my six-pack?
+
+204
+00:08:27,666 --> 00:08:30,731
+<i>♪ ♪</i>
+
+205
+00:08:30,736 --> 00:08:32,666
+[lightning cracks]
+
+206
+00:08:32,671 --> 00:08:34,601
+Tell me exactly what happened.
+
+207
+00:08:34,606 --> 00:08:36,070
+Lightning shot through
+the window, I mean,
+
+208
+00:08:36,074 --> 00:08:37,674
+it was like someone wanted to hit her.
+
+209
+00:08:37,679 --> 00:08:40,040
+Maybe someone did. Nora
+is controlling this storm.
+
+210
+00:08:40,045 --> 00:08:42,075
+Why would she do that to Cecile?
+
+211
+00:08:42,080 --> 00:08:45,112
+Why did she attack Iris?
+Joe, don't worry.
+
+212
+00:08:45,117 --> 00:08:46,948
+I'm gonna do everything I can
+to figure out what's wrong
+
+213
+00:08:46,952 --> 00:08:49,687
+with Cecile and get her back
+on her feet, okay?
+
+214
+00:08:58,830 --> 00:09:00,305
+Why do I feel like the Brady Bunch
+
+215
+00:09:00,310 --> 00:09:02,606
+might've died in here?
+
+216
+00:09:02,611 --> 00:09:04,997
+This place is an exact
+replica of the house
+
+217
+00:09:05,002 --> 00:09:06,665
+that Barry and I grew up in.
+
+218
+00:09:06,670 --> 00:09:08,967
+It looks terrible now.
+
+219
+00:09:08,972 --> 00:09:11,169
+But it wasn't then.
+
+220
+00:09:11,174 --> 00:09:13,406
+What was he like back then?
+
+221
+00:09:13,411 --> 00:09:15,608
+Barry? He was...
+
+222
+00:09:15,613 --> 00:09:17,109
+small for his age.
+
+223
+00:09:17,114 --> 00:09:19,344
+Bet he loved that growth
+spurt when he was 13.
+
+224
+00:09:19,349 --> 00:09:21,747
+Not really. He was pretty clumsy.
+
+225
+00:09:21,752 --> 00:09:23,482
+Wow. Isn't this great?
+
+226
+00:09:23,487 --> 00:09:26,021
+Mom and the kids reminiscing
+about old times.
+
+227
+00:09:27,491 --> 00:09:29,254
+Anyways...
+
+228
+00:09:29,259 --> 00:09:30,689
+he was pretty sensitive about it.
+
+229
+00:09:30,694 --> 00:09:32,858
+So I wanted to help.
+
+230
+00:09:32,863 --> 00:09:35,594
+I would place all of my books
+on top shelves
+
+231
+00:09:35,599 --> 00:09:37,296
+where he thought I couldn't
+reach them...
+
+232
+00:09:37,301 --> 00:09:39,331
+<i>Hey, baby sis.</i>
+
+233
+00:09:39,336 --> 00:09:42,333
+<i>Look what I can do.</i>
+
+234
+00:09:42,338 --> 00:09:43,338
+<i>Don't react.</i>
+
+235
+00:09:43,343 --> 00:09:45,570
+<i>This is just between us siblings.</i>
+
+236
+00:09:45,575 --> 00:09:47,739
+<i>Nora's not gonna stop until we're dead.</i>
+
+237
+00:09:47,744 --> 00:09:50,475
+<i>We need to face her and fight together.</i>
+
+238
+00:09:50,480 --> 00:09:51,831
+<i>First, we need to get out of here.</i>
+
+239
+00:09:51,835 --> 00:09:53,699
+<i>And I know how. Are you with me or not?</i>
+
+240
+00:09:53,704 --> 00:09:56,849
+He was so proud of himself
+when he pulled them down.
+
+241
+00:09:56,853 --> 00:09:58,215
+Made me smile.
+
+242
+00:09:58,220 --> 00:10:02,425
+<i>♪ ♪</i>
+
+243
+00:10:07,697 --> 00:10:10,832
+[device beeping rapidly]
+
+244
+00:10:14,202 --> 00:10:17,200
+<i>[soft dramatic music]</i>
+
+245
+00:10:17,205 --> 00:10:21,410
+<i>♪ ♪</i>
+
+246
+00:10:25,781 --> 00:10:28,879
+My life was supposed to be on this field
+
+247
+00:10:28,884 --> 00:10:30,917
+as a football god.
+
+248
+00:10:32,187 --> 00:10:34,388
+Then I became an actual god, and...
+
+249
+00:10:35,924 --> 00:10:37,621
+Somehow I still can't make my life
+
+250
+00:10:37,626 --> 00:10:39,623
+go in the direction I want.
+
+251
+00:10:39,628 --> 00:10:41,094
+[sighs]
+
+252
+00:10:43,798 --> 00:10:46,329
+I wanted you to die.
+
+253
+00:10:46,334 --> 00:10:47,901
+Not them.
+
+254
+00:10:49,337 --> 00:10:52,269
+I just wish I could take it all back.
+
+255
+00:10:52,274 --> 00:10:56,039
+You don't have to take it back.
+
+256
+00:10:56,044 --> 00:10:58,611
+Iris, Alexa, Bashir.
+
+257
+00:11:00,148 --> 00:11:01,911
+They're not dead.
+
+258
+00:11:01,916 --> 00:11:03,880
+What?
+
+259
+00:11:03,885 --> 00:11:06,185
+It was an illusion.
+
+260
+00:11:07,388 --> 00:11:09,152
+Bashir.
+
+261
+00:11:09,157 --> 00:11:11,090
+It was him, wasn't it?
+
+262
+00:11:12,460 --> 00:11:14,124
+[scoffs]
+
+263
+00:11:14,129 --> 00:11:17,427
+<i>♪ ♪</i>
+
+264
+00:11:17,432 --> 00:11:19,062
+Look.
+
+265
+00:11:19,067 --> 00:11:22,064
+I just wanted you to feel the same pain
+
+266
+00:11:22,069 --> 00:11:24,866
+that I felt when you called
+me a mistake.
+
+267
+00:11:24,871 --> 00:11:26,701
+All right? Nora's the one
+who took it too far.
+
+268
+00:11:26,706 --> 00:11:29,538
+You're not a mistake, Deon.
+
+269
+00:11:29,543 --> 00:11:31,910
+I'm glad you're here, I know that now.
+
+270
+00:11:33,080 --> 00:11:35,877
+[thunder rumbles]
+
+271
+00:11:35,882 --> 00:11:37,946
+[sighs] Deon.
+
+272
+00:11:37,951 --> 00:11:40,182
+- Nora's looking for you.
+- Oh, man.
+
+273
+00:11:40,187 --> 00:11:41,950
+She's the devil, that girl.
+
+274
+00:11:41,955 --> 00:11:44,353
+Look, she's the one that
+should have never existed.
+
+275
+00:11:44,358 --> 00:11:46,989
+You need to unmake her the same
+way you were gonna unmake me.
+
+276
+00:11:46,994 --> 00:11:48,395
+All right? So, come on,
+let's do it together.
+
+277
+00:11:48,399 --> 00:11:50,424
+No, nah, I can't do that.
+
+278
+00:11:50,429 --> 00:11:52,529
+But I'm gonna find another way
+to stop her, I promise.
+
+279
+00:11:52,533 --> 00:11:53,533
+After you're safe.
+
+280
+00:11:53,538 --> 00:11:55,596
+Man, there's no hiding
+from her crazy ass.
+
+281
+00:11:55,601 --> 00:11:56,626
+Look, old man.
+
+282
+00:11:56,631 --> 00:11:58,800
+Either you need to help me
+take her down,
+
+283
+00:11:58,804 --> 00:11:59,968
+or I start running again.
+
+284
+00:11:59,973 --> 00:12:02,102
+Deon, I'm trying to protect you.
+
+285
+00:12:02,107 --> 00:12:03,657
+Killing her is the only thing
+
+286
+00:12:03,662 --> 00:12:05,959
+that's gonna keep us all safe.
+Why can't you see that?
+
+287
+00:12:05,964 --> 00:12:08,329
+I said... [breathes heavily]
+
+288
+00:12:08,334 --> 00:12:10,097
+I said...
+
+289
+00:12:10,102 --> 00:12:12,633
+We'll find another way.
+
+290
+00:12:12,638 --> 00:12:16,843
+We... ain't doing jack.
+
+291
+00:12:16,848 --> 00:12:19,413
+- I am.
+- Deon.
+
+292
+00:12:19,418 --> 00:12:23,623
+<i>♪ ♪</i>
+
+293
+00:12:31,600 --> 00:12:33,190
+How are we supposed to keep people safe
+
+294
+00:12:33,195 --> 00:12:34,224
+and stop Nora?
+
+295
+00:12:34,229 --> 00:12:36,227
+CCPD's evacuating people downtown.
+
+296
+00:12:36,232 --> 00:12:37,332
+Let's call Team Citizen,
+
+297
+00:12:37,337 --> 00:12:38,830
+have them help get people to shelters.
+
+298
+00:12:38,834 --> 00:12:40,064
+I'm gonna find Deon again
+
+299
+00:12:40,069 --> 00:12:41,367
+before he does something he'll regret.
+
+300
+00:12:41,371 --> 00:12:44,335
+Hey. What if he does kill
+the Speed Force?
+
+301
+00:12:44,340 --> 00:12:47,338
+<i>[soft dramatic music]</i>
+
+302
+00:12:47,343 --> 00:12:49,773
+<i>♪ ♪</i>
+
+303
+00:12:49,778 --> 00:12:51,308
+It could save lives.
+
+304
+00:12:51,313 --> 00:12:52,577
+Joe, you know that's not an option.
+
+305
+00:12:52,581 --> 00:12:54,411
+These are gods, Barr.
+
+306
+00:12:54,416 --> 00:12:56,880
+We're ants to them.
+What are we supposed to do?
+
+307
+00:12:56,885 --> 00:12:59,513
+Just pray that it all works out?
+
+308
+00:12:59,518 --> 00:13:01,718
+These forces exist
+because of me and Iris.
+
+309
+00:13:01,723 --> 00:13:03,586
+I have to do everything I can
+to protect them.
+
+310
+00:13:03,591 --> 00:13:05,757
+Well, at least you still can.
+
+311
+00:13:07,195 --> 00:13:08,995
+Joe.
+
+312
+00:13:12,033 --> 00:13:14,897
+Poor Joe. First the job, now Cecile.
+
+313
+00:13:14,902 --> 00:13:17,200
+I know, but right now I need
+you guys to stay focused
+
+314
+00:13:17,205 --> 00:13:18,567
+on finding a way to restrain Nora.
+
+315
+00:13:18,572 --> 00:13:20,122
+Restraining a Force of nature?
+
+316
+00:13:20,127 --> 00:13:21,605
+Barry, we've been putting
+our heads together.
+
+317
+00:13:21,609 --> 00:13:23,207
+I just... I don't know if it's possible.
+
+318
+00:13:23,211 --> 00:13:24,211
+It has to be.
+
+319
+00:13:24,216 --> 00:13:26,279
+We're doing everything
+we can, I promise.
+
+320
+00:13:26,284 --> 00:13:28,078
+All right, well, call me
+if you have something.
+
+321
+00:13:28,082 --> 00:13:30,380
+I'm gonna keep searching for Deon.
+
+322
+00:13:30,385 --> 00:13:33,716
+[lightning cracks]
+
+323
+00:13:33,721 --> 00:13:37,056
+[thunder rumbles]
+
+324
+00:13:39,294 --> 00:13:41,356
+Leawood and Petersburg
+are being evacuated.
+
+325
+00:13:41,361 --> 00:13:43,492
+Kamilla and I are gonna help.
+Want to come with?
+
+326
+00:13:43,497 --> 00:13:45,828
+Might take your mind off things.
+
+327
+00:13:45,833 --> 00:13:48,797
+Allegra, things like that...
+it's not your responsibility.
+
+328
+00:13:48,802 --> 00:13:50,833
+Sometimes there isn't
+anything we can do.
+
+329
+00:13:50,838 --> 00:13:53,135
+And that officially
+
+330
+00:13:53,140 --> 00:13:56,471
+makes you an old man
+feeling sorry for himself.
+
+331
+00:13:56,476 --> 00:13:58,340
+Yeah, I talked to Barry.
+
+332
+00:13:58,345 --> 00:14:00,075
+Look, Joe.
+
+333
+00:14:00,080 --> 00:14:01,577
+You need to hear this.
+
+334
+00:14:01,582 --> 00:14:03,515
+You're not a cop anymore.
+
+335
+00:14:04,685 --> 00:14:05,981
+I know that.
+
+336
+00:14:05,986 --> 00:14:09,217
+So what are you?
+
+337
+00:14:09,222 --> 00:14:12,087
+Because I still see the man
+who sat on a bomb
+
+338
+00:14:12,092 --> 00:14:14,156
+to save Cecile's life.
+
+339
+00:14:14,161 --> 00:14:16,724
+Or who helped
+
+340
+00:14:16,729 --> 00:14:18,460
+a juvenile delinquent achieve her dream
+
+341
+00:14:18,465 --> 00:14:20,362
+of becoming a reporter.
+
+342
+00:14:20,367 --> 00:14:22,597
+You did those things.
+
+343
+00:14:22,602 --> 00:14:24,299
+Not because you had a badge.
+
+344
+00:14:24,304 --> 00:14:27,372
+But because you care
+about helping others.
+
+345
+00:14:29,142 --> 00:14:30,875
+So...
+
+346
+00:14:32,145 --> 00:14:34,279
+What do you say?
+
+347
+00:14:36,583 --> 00:14:39,181
+I can't leave Cecile.
+
+348
+00:14:39,186 --> 00:14:41,649
+I get it.
+
+349
+00:14:41,654 --> 00:14:43,318
+It's your call.
+
+350
+00:14:43,323 --> 00:14:46,354
+<i>[pensive music]</i>
+
+351
+00:14:46,359 --> 00:14:50,564
+<i>♪ ♪</i>
+
+352
+00:14:52,631 --> 00:14:55,199
+[lightning cracks]
+
+353
+00:14:57,836 --> 00:15:01,168
+Nice look. Big improvement.
+
+354
+00:15:01,173 --> 00:15:04,037
+At least my alter ego doesn't
+parade around in blue spandex.
+
+355
+00:15:04,042 --> 00:15:05,739
+- [scoffs]
+- You two really are
+
+356
+00:15:05,744 --> 00:15:07,043
+like brother and sister.
+
+357
+00:15:08,747 --> 00:15:11,678
+Iris, that device Cisco gave you,
+
+358
+00:15:11,683 --> 00:15:14,218
+what if Nora finds us
+and it doesn't work?
+
+359
+00:15:16,655 --> 00:15:18,185
+Chester and Cisco designed it.
+
+360
+00:15:18,190 --> 00:15:20,121
+- It will.
+- Okay.
+
+361
+00:15:20,126 --> 00:15:23,556
+But if Nora did find us,
+she could overpower you.
+
+362
+00:15:23,561 --> 00:15:24,991
+Maybe I should hold on to it.
+
+363
+00:15:24,996 --> 00:15:27,160
+[scoffs]
+
+364
+00:15:27,165 --> 00:15:30,163
+- What's up with you?
+- Just give her the orb, Iris.
+
+365
+00:15:30,168 --> 00:15:32,165
+We're gonna take down Nora
+before she gets to us.
+
+366
+00:15:32,170 --> 00:15:34,000
+We're trying to keep you safe.
+
+367
+00:15:34,005 --> 00:15:36,902
+The last time that happened, I died.
+
+368
+00:15:36,907 --> 00:15:39,539
+<i>[dramatic music]</i>
+
+369
+00:15:39,544 --> 00:15:40,843
+[grunts]
+
+370
+00:15:42,213 --> 00:15:44,144
+Give me the transmat now.
+
+371
+00:15:44,149 --> 00:15:48,354
+<i>♪ ♪</i>
+
+372
+00:15:49,954 --> 00:15:52,721
+[inhales]
+
+373
+00:15:55,393 --> 00:15:58,190
+I'm sorry. That was the only way.
+
+374
+00:15:58,195 --> 00:16:01,129
+<i>Are you sure about that?</i>
+
+375
+00:16:03,634 --> 00:16:05,099
+Wait, don't!
+
+376
+00:16:07,471 --> 00:16:10,569
+<i>I mean, an Einstein-Maxwell
+gravitational trap</i>
+
+377
+00:16:10,574 --> 00:16:12,103
+could hold Nora, but...
+
+378
+00:16:12,108 --> 00:16:13,938
+But the coils would need enough current
+
+379
+00:16:13,943 --> 00:16:16,274
+- to power Las Vegas.
+- Exactly, so...
+
+380
+00:16:16,279 --> 00:16:17,876
+[whoosh]
+
+381
+00:16:17,881 --> 00:16:19,478
+- Still no sign of Deon?
+- No.
+
+382
+00:16:19,483 --> 00:16:22,548
+And the storm's taken out
+more electrical grids.
+
+383
+00:16:22,553 --> 00:16:24,349
+Please tell me you've got a plan.
+
+384
+00:16:24,354 --> 00:16:26,218
+No actual plans yet.
+
+385
+00:16:26,223 --> 00:16:28,286
+Just... theories.
+
+386
+00:16:28,291 --> 00:16:29,854
+Barry, look.
+
+387
+00:16:29,859 --> 00:16:32,456
+We've been racking our brains
+nonstop here.
+
+388
+00:16:32,461 --> 00:16:34,092
+You could give us weeks to solve this
+
+389
+00:16:34,097 --> 00:16:37,195
+and we still might not know
+how to stop her.
+
+390
+00:16:37,200 --> 00:16:39,598
+I don't know how we win this one.
+
+391
+00:16:39,603 --> 00:16:41,332
+[rumbling]
+
+392
+00:16:41,337 --> 00:16:42,501
+[alarm blares]
+
+393
+00:16:42,506 --> 00:16:44,168
+- Kinetic isotopes.
+- _
+
+394
+00:16:44,173 --> 00:16:45,837
+It's Nora.
+
+395
+00:16:45,842 --> 00:16:47,408
+What do we do?
+
+396
+00:16:49,412 --> 00:16:51,342
+Only thing we can.
+
+397
+00:16:51,347 --> 00:16:55,552
+<i>♪ ♪</i>
+
+398
+00:16:59,089 --> 00:17:01,284
+You didn't bring them.
+
+399
+00:17:01,289 --> 00:17:03,587
+Do you want your world to end?
+
+400
+00:17:03,592 --> 00:17:05,455
+No.
+
+401
+00:17:05,460 --> 00:17:07,357
+And neither do you.
+
+402
+00:17:07,362 --> 00:17:10,360
+Nora, you and the other forces
+
+403
+00:17:10,365 --> 00:17:13,764
+were created by something just
+as powerful as all this.
+
+404
+00:17:13,769 --> 00:17:17,170
+The love that Iris and I have
+for each other.
+
+405
+00:17:18,774 --> 00:17:21,204
+That love is a part of you.
+
+406
+00:17:21,209 --> 00:17:24,574
+That means you're more than
+just a force of nature now.
+
+407
+00:17:24,579 --> 00:17:27,047
+Our humanity is inside you too.
+
+408
+00:17:28,083 --> 00:17:31,718
+So please stop.
+
+409
+00:17:33,088 --> 00:17:34,785
+You still don't understand.
+
+410
+00:17:34,790 --> 00:17:36,519
+[thunder rumbles]
+
+411
+00:17:36,524 --> 00:17:37,854
+You feel that?
+
+412
+00:17:37,859 --> 00:17:39,822
+That wasn't me.
+
+413
+00:17:39,827 --> 00:17:41,628
+It never has been.
+
+414
+00:17:42,464 --> 00:17:45,595
+[rumbling]
+
+415
+00:17:45,600 --> 00:17:48,765
+That was a show of strength, Barry.
+
+416
+00:17:48,770 --> 00:17:50,800
+Just like what happened
+to Cecile earlier.
+
+417
+00:17:50,805 --> 00:17:52,772
+[lightning cracks]
+
+418
+00:17:54,643 --> 00:17:56,306
+Sage.
+
+419
+00:17:56,311 --> 00:17:58,444
+Just like what's happening right now.
+
+420
+00:18:04,986 --> 00:18:07,019
+Still Force.
+
+421
+00:18:09,023 --> 00:18:11,987
+- You didn't create this storm.
+- No.
+
+422
+00:18:11,992 --> 00:18:13,722
+Your children did.
+
+423
+00:18:13,727 --> 00:18:15,991
+And that's why they must die.
+
+424
+00:18:15,996 --> 00:18:17,993
+You first!
+
+425
+00:18:17,998 --> 00:18:22,203
+<i>♪ ♪</i>
+
+426
+00:18:43,756 --> 00:18:45,723
+[panting] Help him.
+
+427
+00:18:48,060 --> 00:18:49,590
+What happened?
+
+428
+00:18:49,595 --> 00:18:51,392
+I found out the truth.
+
+429
+00:18:51,397 --> 00:18:52,993
+Everything that's happening out there,
+
+430
+00:18:52,998 --> 00:18:54,995
+Nora isn't doing it.
+The other forces are.
+
+431
+00:18:54,999 --> 00:18:56,465
+- They have been the whole time.
+- W-w-wait.
+
+432
+00:18:56,469 --> 00:18:59,434
+So Alexa, Bashir and Deon
+are the bad guys now?
+
+433
+00:18:59,439 --> 00:19:01,035
+And I thought Nora was the problem.
+
+434
+00:19:01,040 --> 00:19:03,471
+[echoing] You know
+I'm the solution, Barry.
+
+435
+00:19:03,476 --> 00:19:06,808
+Your children's sacrifice is necessary.
+
+436
+00:19:06,813 --> 00:19:09,910
+Three of them for 3 million in return.
+
+437
+00:19:09,915 --> 00:19:13,047
+There's still time.
+
+438
+00:19:13,052 --> 00:19:14,649
+[distorted voice] Now bring them to me,
+
+439
+00:19:14,654 --> 00:19:16,954
+before it's too late.
+
+440
+00:19:21,700 --> 00:19:24,598
+[thunder rumbles]
+
+441
+00:19:25,703 --> 00:19:28,801
+<i>[soft dramatic music]</i>
+
+442
+00:19:28,806 --> 00:19:32,771
+<i>♪ ♪</i>
+
+443
+00:19:32,776 --> 00:19:35,440
+I couldn't stop him.
+
+444
+00:19:35,445 --> 00:19:38,276
+Just like I couldn't stop Nora.
+
+445
+00:19:38,281 --> 00:19:40,082
+What's even worse?
+
+446
+00:19:41,151 --> 00:19:44,750
+I'm not sure what the right
+thing to do is anymore.
+
+447
+00:19:44,755 --> 00:19:47,652
+Hey, you're doing the best you can.
+
+448
+00:19:47,657 --> 00:19:51,862
+<i>♪ ♪</i>
+
+449
+00:19:53,597 --> 00:19:55,427
+It's not enough.
+
+450
+00:19:55,432 --> 00:19:57,696
+- Barry. Hey.
+- Iris?
+
+451
+00:19:57,701 --> 00:19:59,730
+What are you doing here?
+Are you all right?
+
+452
+00:19:59,735 --> 00:20:01,399
+They took off with the orb and escaped.
+
+453
+00:20:01,404 --> 00:20:02,901
+I ended up halfway across town.
+
+454
+00:20:02,906 --> 00:20:04,235
+Where are Alexa and Bashir?
+
+455
+00:20:04,240 --> 00:20:06,571
+They're going after Nora.
+
+456
+00:20:06,576 --> 00:20:08,506
+Deon had the same idea,
+now he's wounded.
+
+457
+00:20:08,511 --> 00:20:10,708
+Barry, our plan didn't work.
+
+458
+00:20:10,713 --> 00:20:13,044
+What are we gonna do?
+
+459
+00:20:13,049 --> 00:20:15,616
+I don't know.
+
+460
+00:20:17,787 --> 00:20:19,217
+Why is all of this happening?
+
+461
+00:20:19,222 --> 00:20:21,219
+Nora says the Forces we created
+
+462
+00:20:21,224 --> 00:20:23,688
+are what's tearing the city apart.
+
+463
+00:20:23,693 --> 00:20:26,190
+And you believe her now?
+
+464
+00:20:26,195 --> 00:20:27,459
+We do too.
+
+465
+00:20:27,464 --> 00:20:28,860
+<i>[dramatic music]</i>
+
+466
+00:20:28,865 --> 00:20:30,328
+For weeks, we've been experiencing
+
+467
+00:20:30,332 --> 00:20:31,462
+<i>Strength Force earthquakes</i>
+
+468
+00:20:31,467 --> 00:20:32,787
+<i>and Still Force time anomalies.</i>
+
+469
+00:20:32,792 --> 00:20:34,923
+But those were all force events
+
+470
+00:20:34,928 --> 00:20:37,668
+On a cosmic scale leading up to this.
+
+471
+00:20:37,673 --> 00:20:38,902
+And what about the Sage Force?
+
+472
+00:20:38,907 --> 00:20:40,872
+The test I ran on Cecile
+earlier showed that
+
+473
+00:20:40,877 --> 00:20:42,276
+the lightning she was struck by
+was composed
+
+474
+00:20:42,280 --> 00:20:44,277
+of electrochemical isotopes.
+
+475
+00:20:44,282 --> 00:20:45,611
+Bashir's psychic energy.
+
+476
+00:20:45,616 --> 00:20:48,247
+So it's not just one Big Bad.
+
+477
+00:20:48,252 --> 00:20:51,750
+We're fighting the Forces
+of the universe itself.
+
+478
+00:20:51,755 --> 00:20:53,556
+Talk about a family feud.
+
+479
+00:20:55,290 --> 00:20:57,287
+Barry, how do we choose
+between saving them
+
+480
+00:20:57,292 --> 00:20:59,192
+and saving our city?
+
+481
+00:21:01,363 --> 00:21:04,127
+<i>[intense music]</i>
+
+482
+00:21:04,132 --> 00:21:06,199
+[grunting]
+
+483
+00:21:07,635 --> 00:21:09,266
+It's okay to admit that you like me.
+
+484
+00:21:09,271 --> 00:21:10,666
+[chuckle] I'm a likeable guy.
+
+485
+00:21:10,671 --> 00:21:11,834
+No, you're not.
+
+486
+00:21:11,839 --> 00:21:13,669
+I changed my mind.
+
+487
+00:21:13,674 --> 00:21:17,879
+<i>♪ ♪</i>
+
+488
+00:21:18,479 --> 00:21:20,579
+So you did like me?
+
+489
+00:21:24,953 --> 00:21:26,316
+[grunts]
+
+490
+00:21:26,321 --> 00:21:28,751
+Shut the hell up, Mark.
+
+491
+00:21:28,756 --> 00:21:30,820
+Okay.
+
+492
+00:21:30,825 --> 00:21:32,989
+Am I crazy?
+
+493
+00:21:32,994 --> 00:21:35,658
+Or am I sensing some
+wild chemistry here?
+
+494
+00:21:35,663 --> 00:21:37,660
+Huh?
+
+495
+00:21:37,665 --> 00:21:39,129
+Come on, tell me you're
+not feeling that.
+
+496
+00:21:39,133 --> 00:21:40,663
+The only thing I'm feeling
+
+497
+00:21:40,668 --> 00:21:42,698
+is my fist on your jawline.
+
+498
+00:21:42,703 --> 00:21:46,908
+<i>♪ ♪</i>
+
+499
+00:21:53,848 --> 00:21:54,877
+[grunts]
+
+500
+00:21:54,882 --> 00:21:56,679
+[grunts]
+
+501
+00:21:56,684 --> 00:21:58,380
+Come on, Frosty.
+
+502
+00:21:58,385 --> 00:22:00,215
+I can counter everything you do.
+
+503
+00:22:00,220 --> 00:22:02,855
+You don't know everything I can do.
+
+504
+00:22:10,430 --> 00:22:12,430
+Chill out.
+
+505
+00:22:13,367 --> 00:22:15,897
+[people screaming]
+
+506
+00:22:15,902 --> 00:22:18,470
+- [lightning cracks]
+- [screams]
+
+507
+00:22:25,712 --> 00:22:27,276
+The entire city is terrified.
+
+508
+00:22:27,281 --> 00:22:29,511
+I know.
+
+509
+00:22:29,516 --> 00:22:32,047
+No matter how hard I try,
+I can't protect them all.
+
+510
+00:22:32,052 --> 00:22:35,284
+Barry, I can't lose anyone else.
+
+511
+00:22:35,289 --> 00:22:37,887
+Not like Nora.
+
+512
+00:22:37,892 --> 00:22:40,022
+Maybe we're not meant to be parents.
+
 513
-00:25:48,943 --> 00:25:50,305
-Hi, Mom.
+00:22:40,027 --> 00:22:42,156
+I mean if we can't even keep
+our own family safe...
 
 514
-00:25:50,310 --> 00:25:54,515
-<i>♪ ♪</i>
+00:22:42,161 --> 00:22:44,192
+That's a load of crap.
 
 515
-00:25:58,200 --> 00:26:01,798
-<i>[eerie music]</i>
+00:22:44,197 --> 00:22:46,361
+Look, I've been feeling
+so sorry for myself
 
 516
-00:26:01,803 --> 00:26:03,603
-Esperanza, don't kill me!
+00:22:46,366 --> 00:22:49,598
+that I've been neglecting
+the people that need my help.
 
 517
-00:26:03,608 --> 00:26:05,869
-They're everywhere.
-We need to keep them out.
+00:22:49,603 --> 00:22:52,267
+Baby girl. You and Barry think
 
 518
-00:26:05,874 --> 00:26:08,370
-Psych, stop. You're hurting
-them... please.
+00:22:52,272 --> 00:22:54,736
+that you can't help your kids
+because parents are
 
 519
-00:26:08,375 --> 00:26:10,239
-Oh, they're hurting themselves.
+00:22:54,741 --> 00:22:56,838
+the only ones that can
+keep a family safe?
 
 520
-00:26:10,244 --> 00:26:11,807
-Sure, I pull back the curtain.
+00:22:56,843 --> 00:22:58,607
+It's our job to protect them.
 
 521
-00:26:11,812 --> 00:26:13,542
-But what they see is up to them.
+00:22:58,612 --> 00:22:59,941
+- She's right, Joe.
+- Barry,
 
 522
-00:26:13,547 --> 00:26:16,045
-Now, before I show you your worst fear,
+00:22:59,946 --> 00:23:01,946
+when you decided to be the Flash,
 
 523
-00:26:16,050 --> 00:26:17,479
-why were you looking for me?
+00:23:01,951 --> 00:23:05,246
+I tried to talk you out of it,
+said you were just a kid.
 
 524
-00:26:17,484 --> 00:26:18,547
-I wasn't.
+00:23:05,251 --> 00:23:06,915
+Did you stop?
 
 525
-00:26:18,552 --> 00:26:19,949
-No...
+00:23:06,920 --> 00:23:09,417
+No, no, it just...
 
 526
-00:26:19,954 --> 00:26:23,052
-You're looking for the Speed Force?
+00:23:09,422 --> 00:23:11,453
+made me want to prove I could
+make a difference even more.
 
 527
-00:26:23,057 --> 00:26:25,121
-Nora. Why?
+00:23:11,457 --> 00:23:12,988
+And you sure as hell have.
 
 528
-00:26:25,126 --> 00:26:26,856
-Why are you so desperate to find her?
+00:23:12,993 --> 00:23:15,423
+But Iris, when Barry can't
+do it alone...
 
 529
-00:26:26,861 --> 00:26:27,861
-Is it to hurt her?
+00:23:15,428 --> 00:23:17,559
+or those times when he is gone
+like the first time
 
 530
-00:26:27,866 --> 00:26:29,691
-I want to talk to her so I can help her.
+00:23:17,563 --> 00:23:19,327
+he went into the Speed Force.
 
 531
-00:26:29,696 --> 00:26:31,927
-Are you sure? Because I am
+00:23:19,332 --> 00:23:22,597
+Who took charge of this crew
+and kept us safe?
 
 532
-00:26:31,932 --> 00:26:35,697
-feeling the pain that she
-has inflicted upon you.
+00:23:22,602 --> 00:23:23,865
+You did.
 
 533
-00:26:35,702 --> 00:26:38,300
-How deeply she's torn apart
-your relationships.
+00:23:23,870 --> 00:23:26,500
+You're always there,
+side by side with him.
 
 534
-00:26:38,305 --> 00:26:39,601
-Your whole life.
+00:23:26,505 --> 00:23:28,502
+Just like now, taking care of business.
 
 535
-00:26:39,606 --> 00:26:41,837
-Actually, the suffering she's caused is
+00:23:28,507 --> 00:23:31,906
+<i>[hopeful music]</i>
 
 536
-00:26:41,842 --> 00:26:44,039
-- quite beautiful.
-- That wasn't Nora.
+00:23:31,911 --> 00:23:34,110
+You two don't get it?
 
 537
-00:26:44,044 --> 00:26:45,875
-She's lost control. Just like you have.
+00:23:35,976 --> 00:23:41,281
+Sometimes it takes a family
+to protect a family.
 
 538
-00:26:45,880 --> 00:26:48,010
-But if you let me, I can help you both.
+00:23:41,286 --> 00:23:45,118
+<i>♪ ♪</i>
 
 539
-00:26:48,015 --> 00:26:49,779
-[chuckling] I don't need your help.
+00:23:45,123 --> 00:23:47,621
+Iris, we've been trying
+to keep the forces apart.
 
 540
-00:26:49,784 --> 00:26:53,447
-Besides, I can feel
-what you fear the most.
+00:23:47,626 --> 00:23:50,460
+When we should be
+bringing them together.
 
 541
-00:26:53,452 --> 00:26:56,217
-It's the person you seek.
+00:23:55,935 --> 00:23:58,101
+I couldn't stop her.
 
 542
-00:26:56,222 --> 00:26:58,820
-Well, your wish is my command.
+00:23:59,136 --> 00:24:01,504
+Because you're not supposed
+to do it alone.
 
 543
-00:26:58,825 --> 00:27:02,324
-<i>[discordant sounds]</i>
+00:24:05,209 --> 00:24:07,674
+Thought you wanted to run and hide?
 
 544
-00:27:02,329 --> 00:27:04,259
-<i>[eerie tones]</i>
+00:24:07,679 --> 00:24:09,579
+Not anymore.
 
 545
-00:27:04,264 --> 00:27:07,529
-[screams]
+00:24:14,719 --> 00:24:17,486
+[rumbling]
 
 546
-00:27:07,534 --> 00:27:10,565
-<i>[gentle music]</i>
+00:24:19,256 --> 00:24:21,387
+Guys?
 
 547
-00:27:10,570 --> 00:27:14,575
-<i>♪ ♪</i>
+00:24:21,392 --> 00:24:23,690
+We've got company.
 
 548
-00:27:15,141 --> 00:27:16,941
-Sweet dreams, my beautiful boy.
+00:24:23,695 --> 00:24:26,693
+<i>[tense music]</i>
 
 549
-00:27:21,542 --> 00:27:23,205
-You'll never measure up.
+00:24:26,698 --> 00:24:30,903
+<i>♪ ♪</i>
 
 550
-00:27:23,210 --> 00:27:27,415
-<i>[intense tones]</i>
+00:24:33,704 --> 00:24:35,701
+You both came back.
 
 551
-00:27:27,420 --> 00:27:29,084
-Okay. It's working.
+00:24:35,706 --> 00:24:38,240
+Things are different now, aren't they?
 
 552
-00:27:29,089 --> 00:27:31,820
-Now, when you're close enough
-to cycle particles,
+00:24:42,813 --> 00:24:44,543
+I could feel it.
 
 553
-00:27:31,825 --> 00:27:33,788
-the disc will light up.
+00:24:44,548 --> 00:24:46,081
+We both could.
 
 554
-00:27:33,793 --> 00:27:36,090
-Guys, I appreciate you helping me.
+00:24:51,122 --> 00:24:53,322
+Sorry for almost killing you.
 
 555
-00:27:36,095 --> 00:27:38,226
-Make sure the proton
-collection housing's
+00:24:54,825 --> 00:24:57,756
+I tell you what, you help us survive,
 
 556
-00:27:38,231 --> 00:27:40,228
-double-fused.
+00:24:57,761 --> 00:24:59,995
+we'll forgive you.
 
 557
-00:27:40,233 --> 00:27:42,630
-We did.
+00:25:02,733 --> 00:25:04,599
+Maybe.
 
 558
-00:27:42,635 --> 00:27:45,066
-And it's good to see you.
+00:25:05,769 --> 00:25:09,334
+All right, no more running.
+No more hiding.
 
 559
-00:27:45,071 --> 00:27:46,734
-What changed your mind?
+00:25:09,339 --> 00:25:12,504
+It's time we face Nora.
+Only we do it together.
 
 560
-00:27:46,739 --> 00:27:48,669
-Look, this is dangerous.
+00:25:12,509 --> 00:25:16,714
+<i>♪ ♪</i>
 
 561
-00:27:48,674 --> 00:27:50,641
-And it doesn't feel right.
+00:25:25,422 --> 00:25:27,853
+Everyone ready?
 
 562
-00:27:53,046 --> 00:27:56,410
-But I'm always gonna have your back.
+00:25:27,858 --> 00:25:31,156
+[lightning cracks]
 
 563
-00:27:56,415 --> 00:27:57,778
-No matter what.
+00:25:31,161 --> 00:25:32,490
+Any sign of Nora yet?
 
 564
-00:27:57,783 --> 00:28:01,648
-<i>[suspenseful music]</i>
+00:25:32,495 --> 00:25:34,125
+No, not yet.
 
 565
-00:28:01,653 --> 00:28:03,550
-Chester. Let's get it going.
+00:25:34,130 --> 00:25:37,895
+<i>[tense tones]</i>
 
 566
-00:28:03,555 --> 00:28:05,485
-Okay, so. Barry.
+00:25:37,900 --> 00:25:39,931
+Nora.
 
 567
-00:28:05,490 --> 00:28:07,720
-All you need to do is
-get close enough to the
+00:25:39,936 --> 00:25:41,432
+I brought them.
 
 568
-00:28:07,725 --> 00:28:11,391
-Speed Force lightning to
-collect a sample of each force.
+00:25:41,437 --> 00:25:43,637
+[lightning cracks]
 
 569
-00:28:11,396 --> 00:28:16,001
-The PHC and Timeless Wells's
-time bubble should do the rest.
+00:25:48,310 --> 00:25:50,307
+I did what you asked.
 
 570
-00:28:16,006 --> 00:28:17,906
-Theoretically.
+00:25:50,312 --> 00:25:52,376
+[distorted voice] No you didn't.
 
 571
-00:28:20,072 --> 00:28:21,437
-Ready?
+00:25:52,381 --> 00:25:54,645
+You're going to betray me.
 
 572
-00:28:30,982 --> 00:28:32,711
-Nothing's happening.
+00:25:54,650 --> 00:25:57,348
+We're connected Nora, all of us.
 
 573
-00:28:32,716 --> 00:28:35,447
-- You gonna...
-- Wait for it.
+00:25:57,353 --> 00:26:00,618
+Whether we like it or not,
+we're a family.
 
 574
-00:28:35,452 --> 00:28:36,648
-[whispers] Wait for it.
+00:26:00,623 --> 00:26:02,152
+That includes you, too.
 
 575
-00:28:36,653 --> 00:28:38,717
-[voices chattering]
+00:26:02,157 --> 00:26:04,254
+Stupid boy.
 
 576
-00:28:38,722 --> 00:28:41,720
-<i>[suspenseful music]</i>
+00:26:04,259 --> 00:26:07,625
+I can see I'm going to
+have to kill you too.
 
 577
-00:28:41,725 --> 00:28:44,790
-<i>♪ ♪</i>
+00:26:07,630 --> 00:26:09,359
+[lightning cracks]
 
 578
-00:28:44,795 --> 00:28:46,859
-Incredible.
+00:26:09,364 --> 00:26:10,863
+Barry!
 
 579
-00:28:46,864 --> 00:28:48,994
-We're at 100% organic speed.
+00:26:17,100 --> 00:26:18,796
+Where the hell are we?
 
 580
-00:28:48,999 --> 00:28:50,562
-We need you...
+00:26:18,801 --> 00:26:20,898
+We're... dead, right?
 
 581
-00:28:50,567 --> 00:28:52,031
-I need you.
+00:26:20,903 --> 00:26:23,501
+No, but somebody's about to be.
 
 582
-00:28:52,036 --> 00:28:54,267
-<i>♪ ♪</i>
+00:26:23,506 --> 00:26:25,437
+Your children did this, Barry.
 
 583
-00:28:54,272 --> 00:28:56,535
-<i>[sparks crackling]</i>
+00:26:25,442 --> 00:26:27,972
+This isn't how it should be.
 
 584
-00:28:56,540 --> 00:28:59,571
+00:26:27,977 --> 00:26:30,975
 <i>[intense music]</i>
 
 585
-00:28:59,576 --> 00:29:03,781
+00:26:30,980 --> 00:26:34,485
 <i>♪ ♪</i>
 
 586
-00:29:09,286 --> 00:29:11,550
-I remember this moment.
+00:26:35,251 --> 00:26:37,014
+So...
 
 587
-00:29:11,555 --> 00:29:14,222
-This is where it all started.
+00:26:37,019 --> 00:26:39,417
+it's family game night.
 
 588
-00:29:20,497 --> 00:29:22,761
-We should get to the roof.
+00:26:39,422 --> 00:26:42,390
+Fine. But I play to win.
 
 589
-00:29:22,766 --> 00:29:26,468
-[energy crackling]
+00:26:43,826 --> 00:26:45,322
+[electronic beeping]
 
 590
-00:29:52,227 --> 00:29:54,859
-You think you can be a good wife?
+00:26:45,327 --> 00:26:46,824
+I... I can't get a lock.
 
 591
-00:29:54,864 --> 00:29:56,928
-Good mother?
+00:26:46,829 --> 00:26:49,026
+It's like the forces are everywhere.
 
 592
-00:29:56,933 --> 00:29:59,263
-But you never will.
+00:26:49,031 --> 00:26:50,495
+They're all around us.
 
 593
-00:29:59,268 --> 00:30:03,067
-Everything you do pales
-in comparison to me.
+00:26:50,500 --> 00:26:52,530
+Like cosmic forces of nature.
 
 594
-00:30:03,072 --> 00:30:06,537
-Besides... how could
-you be a good mother
+00:26:52,535 --> 00:26:54,899
+That's why we can't find them.
 
 595
-00:30:06,542 --> 00:30:09,573
-- if you never even had one?
-- I'm not listening to you.
+00:26:54,904 --> 00:26:57,605
+Because they're in the Speed Force.
 
 596
-00:30:09,578 --> 00:30:10,978
-You don't have to.
+00:26:58,841 --> 00:27:00,938
+[roars]
 
 597
-00:30:10,983 --> 00:30:12,472
-You already know it's the truth.
+00:27:00,943 --> 00:27:02,910
+[all groan]
 
 598
-00:30:12,477 --> 00:30:14,177
-No. You're not real.
+00:27:04,613 --> 00:27:06,546
+[growls]
 
 599
-00:30:14,182 --> 00:30:16,412
-There's no escaping your own fear.
+00:27:10,019 --> 00:27:14,224
+<i>♪ ♪</i>
 
 600
-00:30:16,417 --> 00:30:18,952
-I know you're still here, Psych.
+00:27:20,429 --> 00:27:23,327
+[yells]
 
 601
-00:30:19,921 --> 00:30:22,786
-Very good. Mm.
+00:27:23,332 --> 00:27:25,098
+[lightning cracks]
 
 602
-00:30:22,791 --> 00:30:24,453
-It is not every day that
+00:27:37,278 --> 00:27:38,574
+What the hell just happened?
 
 603
-00:30:24,458 --> 00:30:27,356
-somebody can sense my presence
-in their nightmare.
+00:27:38,579 --> 00:27:40,009
+She must of given up.
 
 604
-00:30:27,361 --> 00:30:30,093
-I'm not just someone.
-We have a connection.
+00:27:40,014 --> 00:27:41,365
+'Cause there are too many
+of us to fight.
 
 605
-00:30:30,098 --> 00:30:31,962
-I know you can feel that too.
+00:27:41,369 --> 00:27:43,499
+No. No, no, no.
 
 606
-00:30:31,967 --> 00:30:34,764
-Perhaps. It's not going to
-help you, though.
+00:27:43,504 --> 00:27:45,148
+We're not that lucky, are we, Dad?
 
 607
-00:30:34,769 --> 00:30:37,567
-Escape one nightmare and
-I'll just serve up another.
+00:27:45,153 --> 00:27:46,549
+[breathes heavily]
 
 608
-00:30:37,572 --> 00:30:40,840
-Because there's always
-more terror to unlock.
+00:27:46,554 --> 00:27:48,151
+Bashir's right.
 
 609
-00:30:48,683 --> 00:30:50,279
-<i>But before you had those powers,</i>
+00:27:48,156 --> 00:27:50,053
+- This isn't over.
+- [radio static]
 
 610
-00:30:50,284 --> 00:30:53,149
-before you became a force.
-You were a person.
+00:27:50,058 --> 00:27:51,454
+<i>Barry, can you hear me?</i>
 
 611
-00:30:53,154 --> 00:30:55,751
-I'm talking to that person right now.
+00:27:51,459 --> 00:27:53,122
+Yeah, I'm all right.
 
 612
-00:30:55,756 --> 00:30:57,156
-I have friends. I have a team.
+00:27:53,127 --> 00:27:55,591
+We all are.
 
 613
-00:30:57,161 --> 00:30:59,989
-They can help you fight this
-monster that's inside of you.
+00:27:55,596 --> 00:27:58,828
+Guys, I'm picking up
+electromagnetic particles
 
 614
-00:30:59,994 --> 00:31:02,391
-We can help you regain
-control of your body.
+00:27:58,833 --> 00:28:00,263
+gathering in the area.
 
 615
-00:31:02,396 --> 00:31:05,528
-What makes you think I'm not in control?
+00:28:00,268 --> 00:28:01,630
+Is it part of the storm?
 
 616
-00:31:05,533 --> 00:31:08,697
-I know you didn't... choose
-to have these powers.
+00:28:01,635 --> 00:28:03,666
+No, no, it's as if there's...
 
 617
-00:31:08,702 --> 00:31:11,300
-And you shouldn't have to
-go through this alone.
+00:28:03,671 --> 00:28:06,769
+Some sort of collider reaction
+forming over Central City.
 
 618
-00:31:11,305 --> 00:31:13,502
-I know that we're not flesh and blood.
+00:28:06,774 --> 00:28:09,272
+[lightning cracks]
 
 619
-00:31:13,507 --> 00:31:15,671
-But in a way...
+00:28:09,277 --> 00:28:12,707
+[thunder rumbles]
 
 620
-00:31:15,676 --> 00:31:19,142
-I'm... I'm like a parent.
+00:28:12,712 --> 00:28:15,310
+It just keeps getting more powerful.
 
 621
-00:31:19,147 --> 00:31:21,177
-<i>[somber tones]</i>
+00:28:15,315 --> 00:28:16,979
+If...
 
 622
-00:31:21,182 --> 00:31:24,413
-So please let me help you.
+00:28:16,984 --> 00:28:19,647
+If this thing achieves
+enough atomic mass,
 
 623
-00:31:24,418 --> 00:31:28,216
-<i>[exciting music]</i>
+00:28:19,652 --> 00:28:21,683
+it's gonna snap back like a rubber band.
 
 624
-00:31:28,221 --> 00:31:32,426
-<i>♪ ♪</i>
+00:28:21,688 --> 00:28:23,452
+Big Bang in reverse.
 
 625
-00:31:44,904 --> 00:31:46,938
-[gasps, groans]
+00:28:23,457 --> 00:28:24,686
+How much time do we have?
 
 626
-00:31:49,876 --> 00:31:52,640
-Well, then there's something
-I should tell you, Mother.
+00:28:24,691 --> 00:28:26,288
+<i>Uh, no idea.</i>
 
 627
-00:31:52,645 --> 00:31:54,809
-I hated my parents.
+00:28:26,293 --> 00:28:28,791
+It's like all four isotopic
+forces are returning
 
 628
-00:31:54,814 --> 00:31:56,711
-[screams]
+00:28:28,796 --> 00:28:30,259
+to their original state.
 
 629
-00:31:56,716 --> 00:31:59,647
-<i>[heroic music]</i>
+00:28:30,264 --> 00:28:32,127
+Like when they were born.
 
 630
-00:31:59,652 --> 00:32:03,857
-<i>♪ ♪</i>
+00:28:32,132 --> 00:28:35,130
+<i>[suspenseful music]</i>
 
 631
-00:32:19,371 --> 00:32:21,502
-The isotopic energy readings
-are going down.
+00:28:35,135 --> 00:28:38,533
+<i>♪ ♪</i>
 
 632
-00:32:21,507 --> 00:32:23,704
-The forces are dying.
+00:28:38,538 --> 00:28:40,969
+- But in reverse.
+- If that's our time table,
 
 633
-00:32:23,709 --> 00:32:27,241
-- [screams]
-- [laughs]
+00:28:40,974 --> 00:28:43,405
+then we only have about three minutes.
 
 634
-00:32:27,246 --> 00:32:29,977
-[screams]
+00:28:43,410 --> 00:28:45,807
+Maybe less.
 
 635
-00:32:29,982 --> 00:32:31,352
-These fools gonna learn.
+00:28:45,812 --> 00:28:48,610
+Barry, you have to keep the Force Event
 
 636
-00:32:31,357 --> 00:32:33,247
-You mess with Deon. You get dealt with.
+00:28:48,615 --> 00:28:50,311
+from reaching optimal expansion.
 
 637
-00:32:33,252 --> 00:32:35,749
-[screams]
+00:28:50,316 --> 00:28:52,279
+We have 2 minutes and 55 seconds
 
 638
-00:32:35,754 --> 00:32:38,285
-<i>[suspenseful music]</i>
+00:28:52,284 --> 00:28:54,015
+before the Forces snap back
 
 639
-00:32:38,290 --> 00:32:42,223
-<i>♪ ♪</i>
+00:28:54,020 --> 00:28:56,320
+<i>and destroy everything in existence.</i>
 
 640
-00:32:42,228 --> 00:32:45,429
-Another 20 seconds, and
-they'll be gone forever.
+00:28:57,190 --> 00:28:59,286
+We heard. Your thoughts.
 
 641
-00:32:45,998 --> 00:32:49,062
-Barry did it.
+00:28:59,291 --> 00:29:01,222
+Apparently, it's hereditary.
 
 642
-00:32:49,067 --> 00:32:51,064
-Okay.
+00:29:01,227 --> 00:29:03,360
+So what do we do?
 
 643
-00:32:51,069 --> 00:32:53,167
-Wait... wait.
+00:29:04,630 --> 00:29:06,330
+This.
 
 644
-00:32:53,172 --> 00:32:55,105
-What is that?
+00:29:07,166 --> 00:29:10,164
+<i>[dramatic music]</i>
 
 645
-00:32:59,778 --> 00:33:04,783
-I think that is an act of creation.
+00:29:10,169 --> 00:29:13,534
+<i>♪ ♪</i>
 
 646
-00:33:08,353 --> 00:33:10,550
-I have the particles.
+00:29:13,539 --> 00:29:15,439
+[lightning cracks]
 
 647
-00:33:10,555 --> 00:33:12,619
-Shouldn't the forces be dying?
+00:29:29,220 --> 00:29:31,284
+<i>[eerie tones]</i>
 
 648
-00:33:12,624 --> 00:33:16,123
-Perhaps they are. Somewhere.
+00:29:31,289 --> 00:29:32,719
+You really can't take a hint.
 
 649
-00:33:16,128 --> 00:33:20,526
-In time, but right here? Right now?
+00:29:32,724 --> 00:29:34,454
+And you can't kill me.
 
 650
-00:33:20,531 --> 00:33:22,796
-They're being born.
+00:29:34,459 --> 00:29:36,857
+- It was worth a shot.
+- Now that Daddy's gone,
 
 651
-00:33:22,801 --> 00:33:25,832
-<i>[somber music]</i>
+00:29:36,862 --> 00:29:39,059
+there's no one here to protect you.
 
 652
-00:33:25,837 --> 00:33:29,972
-<i>♪ ♪</i>
+00:29:39,064 --> 00:29:41,762
+Once you're all gone,
+my future will be safe.
 
 653
-00:33:36,844 --> 00:33:39,075
-What are you doing to me?
+00:29:41,767 --> 00:29:44,033
+Now, surrender.
 
 654
-00:33:39,080 --> 00:33:40,544
-I wasn't able to get through to him.
+00:29:45,136 --> 00:29:48,335
+<i>Bashir, Deon, listen up.</i>
 
 655
-00:33:40,549 --> 00:33:43,449
-- And now it's too late.
-- Boss, we can't stay here.
+00:29:48,340 --> 00:29:50,370
+<i>We got one shot at this.</i>
 
 656
-00:33:43,454 --> 00:33:47,220
-[pained grunts]
+00:29:50,375 --> 00:29:54,107
+<i>♪ ♪</i>
 
 657
-00:33:47,225 --> 00:33:49,955
-[cries]
+00:29:54,112 --> 00:29:57,610
+Little Sister, what are you doing?
 
 658
-00:33:49,960 --> 00:33:53,027
-[panting]
+00:29:57,615 --> 00:30:00,613
+Are you hiding something from me?
 
 659
-00:33:56,833 --> 00:33:58,363
-Allen.
+00:30:00,618 --> 00:30:02,515
+<i>♪ ♪</i>
 
 660
-00:33:58,368 --> 00:34:00,765
-You okay?
+00:30:02,520 --> 00:30:04,554
+[electricity crackles]
 
 661
-00:34:00,770 --> 00:34:06,390
-<i>Never judge your kids
-for who they are now.</i>
+00:30:18,503 --> 00:30:21,767
+<i>[somber music]</i>
 
 662
-00:34:06,395 --> 00:34:12,500
-<i>You help them become
-who they know they can be.</i>
+00:30:21,772 --> 00:30:24,840
+<i>[sobbing] No.</i>
 
 663
-00:34:13,317 --> 00:34:15,146
-They're almost gone.
+00:30:28,312 --> 00:30:30,112
+<i>No.</i>
 
 664
-00:34:15,151 --> 00:34:16,515
-5%.
+00:30:32,949 --> 00:30:35,450
+Hello?
 
 665
-00:34:16,520 --> 00:34:17,752
-4...
+00:30:41,858 --> 00:30:43,825
+Where is everyone?
 
 666
-00:34:20,691 --> 00:34:21,853
-<i>3...</i>
+00:30:46,029 --> 00:30:48,026
+[sobbing]
 
 667
-00:34:21,858 --> 00:34:25,523
-<i>[suspenseful music]</i>
+00:30:48,031 --> 00:30:50,265
+No...
 
 668
-00:34:25,528 --> 00:34:26,894
-<i>2...</i>
+00:30:51,502 --> 00:30:53,465
+[sobs]
 
 669
-00:35:00,329 --> 00:35:01,626
-What's happening?
-
-670
-00:35:01,631 --> 00:35:03,561
-Everything just stopped.
-
-671
-00:35:03,566 --> 00:35:05,630
-The numbers are going back up.
-
-672
-00:35:05,635 --> 00:35:08,366
-It's as if the forces are still here...
-
-673
-00:35:08,371 --> 00:35:10,237
-[energy sizzles]
-
-674
-00:35:12,441 --> 00:35:13,937
-Iris was right.
-
-675
-00:35:13,942 --> 00:35:16,307
-You all were.
-
-676
-00:35:16,312 --> 00:35:19,577
-I...
-
-677
-00:35:19,582 --> 00:35:21,044
-I couldn't do it.
-
-678
-00:35:21,049 --> 00:35:24,885
-<i>[somber music]</i>
-
-679
-00:35:29,000 --> 00:35:31,931
-<i>[somber music]</i>
-
-680
-00:35:31,936 --> 00:35:36,141
-<i>♪ ♪</i>
-
-681
-00:35:36,941 --> 00:35:39,841
-Iris...
-
-682
-00:35:39,846 --> 00:35:40,941
-I'm sorry.
-
-683
-00:35:40,945 --> 00:35:42,041
-Yeah, me too.
-
-684
-00:35:42,046 --> 00:35:45,745
-<i>[soft music]</i>
-
-685
-00:35:45,750 --> 00:35:49,816
-<i>♪ ♪</i>
-
-686
-00:35:49,821 --> 00:35:51,785
-Barry, I... um...
-
-687
-00:35:51,790 --> 00:35:53,453
-I went looking for Nora.
-
-688
-00:35:53,458 --> 00:35:55,989
-I thought that if I could
-just talk to her,
-
-689
-00:35:55,994 --> 00:35:58,157
-that I could fix everything.
-
-690
-00:35:58,162 --> 00:36:00,059
-But, um.
-
-691
-00:36:00,064 --> 00:36:03,429
-I ended up finding Psych instead.
-
-692
-00:36:03,434 --> 00:36:04,696
-You were right.
-
-693
-00:36:04,701 --> 00:36:06,798
-I couldn't get through to him.
-
-694
-00:36:06,803 --> 00:36:10,268
-And it probably would have been
-the same with Nora.
-
-695
-00:36:10,273 --> 00:36:11,770
-I should have listened to you.
-
-696
-00:36:11,775 --> 00:36:14,476
-No, I'm the one who should
-have listened.
-
-697
-00:36:17,280 --> 00:36:19,611
-Harrison told me about
-the birth of the forces.
-
-698
-00:36:19,616 --> 00:36:22,113
-Sounds incredible.
-
-699
-00:36:22,118 --> 00:36:23,952
-It was.
-
-700
-00:36:25,422 --> 00:36:28,454
-Can't believe how close
-I came to erasing them.
-
-701
-00:36:28,459 --> 00:36:32,458
-- What changed your mind?
-- You.
-
-702
-00:36:32,463 --> 00:36:35,160
-Joe. Everyone.
-
-703
-00:36:35,165 --> 00:36:38,430
-Even the forces themselves.
-
-704
-00:36:38,435 --> 00:36:39,931
-I could...
-
-705
-00:36:39,936 --> 00:36:43,941
-I could feel how they would
-affect the future.
-
-706
-00:36:44,540 --> 00:36:47,538
-All the speedsters' and heroes'
-lives they'd shape.
-
-707
-00:36:47,543 --> 00:36:50,875
-Some of them were family, Iris.
-
-708
-00:36:50,880 --> 00:36:54,345
-Our family.
-
-709
-00:36:54,350 --> 00:36:56,981
-Barry, we both know how
-dangerous these forces can be.
-
-710
-00:36:56,985 --> 00:36:58,349
-I mean, if you couldn't uncreate them,
-
-711
-00:36:58,353 --> 00:37:01,051
-and I couldn't get through to Psych...
-
-712
-00:37:01,056 --> 00:37:03,354
-- What are we supposed to do?
-- Try again.
-
-713
-00:37:03,359 --> 00:37:05,422
-Together this time.
-
-714
-00:37:05,427 --> 00:37:08,292
-Joe helped me realize
-that we can't judge
-
-715
-00:37:08,297 --> 00:37:11,863
-Psych and Deon for who they are now.
-
-716
-00:37:11,868 --> 00:37:15,032
-We have to help them become
-who they can grow up to be.
-
-717
-00:37:15,037 --> 00:37:16,971
-'Cause that's what parents do.
-
-718
-00:37:18,807 --> 00:37:20,336
-[rumbling]
-
-719
-00:37:20,341 --> 00:37:23,974
-<i>[suspenseful music]</i>
-
-720
-00:37:23,979 --> 00:37:25,074
-[both] Alexa.
-
-721
-00:37:25,079 --> 00:37:27,814
-[rapid beeping]
-
-722
-00:37:30,652 --> 00:37:32,549
-- What happened?
-- There was a tremor.
-
-723
-00:37:32,554 --> 00:37:35,218
-And Alexa sat up and looked at me.
-
-724
-00:37:35,223 --> 00:37:36,487
-Alexa's alive?
-
-725
-00:37:36,492 --> 00:37:40,323
-She was for a second,
-but she's not anymore.
-
-726
-00:37:40,328 --> 00:37:44,060
-Which doesn't make any sense,
-medically speaking.
-
-727
-00:37:44,065 --> 00:37:45,896
-What if us being back in sync
-
-728
-00:37:45,901 --> 00:37:47,764
-is what woke her up for the moment?
-
-729
-00:37:47,769 --> 00:37:50,767
-And then she reconnected
-with the Strength Force.
-
-730
-00:37:50,772 --> 00:37:54,977
-Is it crazy to think that we did this?
-
-731
-00:37:56,210 --> 00:37:58,041
+00:30:53,470 --> 00:30:55,501
 No.
 
-732
-00:37:58,046 --> 00:37:59,909
-'Cause we're all connected.
+670
+00:30:55,506 --> 00:30:57,236
+No.
 
-733
-00:37:59,914 --> 00:38:02,078
-And if we woke her up once.
+671
+00:30:57,241 --> 00:30:59,471
+No, this is worse than dying.
 
-734
-00:38:02,083 --> 00:38:05,881
-Then we could bring
-her back permanently?
+672
+00:30:59,476 --> 00:31:03,481
+[sobbing] No.
 
-735
-00:38:05,886 --> 00:38:10,091
-<i>[tense music]</i>
+673
+00:31:04,147 --> 00:31:06,647
+Hello!
 
-736
-00:38:10,991 --> 00:38:15,196
+674
+00:31:11,521 --> 00:31:13,517
+No!
+
+675
+00:31:13,522 --> 00:31:15,653
+No...
+
+676
+00:31:15,658 --> 00:31:18,456
+No!
+
+677
+00:31:18,461 --> 00:31:22,666
 <i>♪ ♪</i>
 
-737
-00:38:17,831 --> 00:38:19,695
-[sparks fizzling]
+678
+00:31:26,369 --> 00:31:29,370
+[crying]
 
-738
-00:38:19,700 --> 00:38:22,831
-[electricity crackling]
+679
+00:31:32,342 --> 00:31:34,472
+I'll be the only Force for eons to come,
 
-739
-00:38:22,836 --> 00:38:26,068
+680
+00:31:34,477 --> 00:31:36,006
+and I'll be alone.
+
+681
+00:31:36,011 --> 00:31:37,574
+All alone, I can feel it.
+
+682
+00:31:37,579 --> 00:31:41,784
+[sobs] No, no.
+
+683
+00:31:42,317 --> 00:31:44,347
+Don't let it happen.
+
+684
+00:31:44,352 --> 00:31:47,217
+Please, don't let it happen.
+
+685
+00:31:47,222 --> 00:31:50,456
+Please don't let it happen... please.
+
+686
+00:31:51,627 --> 00:31:55,192
+Don't let it happen.
+
+687
+00:31:55,197 --> 00:31:58,162
+It's just one possible future.
+
+688
+00:31:58,167 --> 00:32:00,363
+But you can choose another.
+
+689
+00:32:00,368 --> 00:32:03,500
+One where you're not alone.
+
+690
+00:32:03,505 --> 00:32:06,636
+Where you're part of a family.
+
+691
+00:32:06,641 --> 00:32:08,138
+Ours.
+
+692
+00:32:08,143 --> 00:32:12,348
+<i>♪ ♪</i>
+
+693
+00:32:16,150 --> 00:32:18,518
+[sobs]
+
+694
+00:32:26,495 --> 00:32:28,558
+Alexa...
+
+695
+00:32:28,563 --> 00:32:32,229
+Deon, Bashir.
+
+696
+00:32:32,234 --> 00:32:35,098
+Forgive me.
+
+697
+00:32:35,103 --> 00:32:37,303
+[sobs] Forgive me.
+
+698
+00:32:38,306 --> 00:32:40,437
 <i>[intense music]</i>
 
-740
-00:38:26,073 --> 00:38:30,278
+699
+00:32:40,442 --> 00:32:42,872
+- He's not fast enough.
+- He's gotta be.
+
+700
+00:32:42,877 --> 00:32:46,375
+[electricity sparks]
+
+701
+00:32:46,380 --> 00:32:50,585
 <i>♪ ♪</i>
 
-741
-00:38:42,922 --> 00:38:44,453
-- [gasps]
-- [gasps]
+702
+00:32:56,123 --> 00:33:00,328
+[lightning cracks]
 
-742
-00:38:44,458 --> 00:38:47,889
-[panting]
+703
+00:33:02,529 --> 00:33:05,597
+Concentrate. Then follow my thoughts.
 
-743
-00:38:47,894 --> 00:38:49,994
-Why is everyone looking at me?
+704
+00:33:15,642 --> 00:33:18,473
+[lightning cracks]
 
-744
-00:38:58,071 --> 00:39:01,102
-<i>Listen. I'd ask you to stay, but...</i>
-
-745
-00:39:01,107 --> 00:39:02,736
-I already know the answer.
-
-746
-00:39:02,741 --> 00:39:05,106
-A man's gotta be where his heart lies.
-
-747
-00:39:05,111 --> 00:39:06,707
-<i>[sentimental music]</i>
-
-748
-00:39:06,712 --> 00:39:10,917
-He's just gotta learn to listen to it.
-
-749
-00:39:17,889 --> 00:39:21,522
-One more thing before I go.
-
-750
-00:39:21,527 --> 00:39:24,158
-Whether it's me...
-
-751
-00:39:24,163 --> 00:39:28,368
-or any of the many Wells predecessors,
-
-752
-00:39:28,925 --> 00:39:32,590
-I want you to know that you taught us
-
-753
-00:39:33,839 --> 00:39:37,638
-every inch as much as we taught you.
-
-754
-00:39:37,643 --> 00:39:39,372
-Maybe more.
-
-755
-00:39:39,377 --> 00:39:42,342
-<i>[sentimental music]</i>
-
-756
-00:39:42,347 --> 00:39:45,181
+705
+00:33:18,478 --> 00:33:22,683
 <i>♪ ♪</i>
 
-757
-00:39:52,824 --> 00:39:55,324
-Yeah, I'm never gonna get used to that.
+706
+00:33:25,418 --> 00:33:27,518
+[lightning crackles]
 
-758
-00:39:59,698 --> 00:40:03,296
-You okay?
+707
+00:33:51,444 --> 00:33:54,545
+[all exhale]
 
-759
-00:40:03,301 --> 00:40:05,766
-Yeah.
-
-760
-00:40:05,771 --> 00:40:08,200
-For the first time in a long while.
-
-761
-00:40:08,205 --> 00:40:10,338
-Yeah, I feel okay.
-
-762
-00:40:11,842 --> 00:40:12,938
-Good.
-
-763
-00:40:12,943 --> 00:40:15,307
-Um...'cause I've been thinking
-about something.
-
-764
-00:40:15,312 --> 00:40:19,317
-And after tonight,
-I know I have to do it.
-
-765
-00:40:19,784 --> 00:40:22,148
-Okay, that's just weird.
-
-766
-00:40:22,153 --> 00:40:26,358
-I was literally about to say
-the exact same thing to you.
-
-767
-00:40:28,025 --> 00:40:30,358
-[both] I have to leave Central City.
-
-768
-00:40:33,097 --> 00:40:34,960
-[snickers] Thank God.
-
-769
-00:40:34,965 --> 00:40:37,930
-Are you kidding me?
-
-770
-00:40:37,935 --> 00:40:39,598
+708
+00:33:56,783 --> 00:33:58,148
 Oh, my God.
 
+709
+00:33:59,619 --> 00:34:02,620
+[both panting]
+
+710
+00:34:05,191 --> 00:34:08,790
+<i>[soft music]</i>
+
+711
+00:34:08,795 --> 00:34:11,025
+Nora...
+
+712
+00:34:11,030 --> 00:34:13,860
+It's really you.
+
+713
+00:34:13,865 --> 00:34:16,663
+You saved me.
+
+714
+00:34:16,668 --> 00:34:18,632
+You saved us all.
+
+715
+00:34:18,637 --> 00:34:22,842
+<i>♪ ♪</i>
+
+716
+00:34:41,475 --> 00:34:44,840
+<i>[soft music]</i>
+
+717
+00:34:44,845 --> 00:34:48,911
+<i>♪ ♪</i>
+
+718
+00:34:48,916 --> 00:34:50,746
+How do you feel?
+
+719
+00:34:50,751 --> 00:34:53,214
+- Like I'm home.
+- Hey, nice crib.
+
+720
+00:34:53,219 --> 00:34:55,483
+Meh, you should have seen
+it before the remodel.
+
+721
+00:34:55,488 --> 00:34:57,519
+[chuckles] Yeah.
+
+722
+00:34:57,524 --> 00:35:00,321
+This place feels different.
+
+723
+00:35:00,326 --> 00:35:03,291
+- With you all here, I feel...
+- Faster?
+
+724
+00:35:03,296 --> 00:35:05,893
+You are. With all of us together,
+
+725
+00:35:05,898 --> 00:35:08,332
+you'll be faster than
+you ever imagined, Barry.
+
+726
+00:35:12,572 --> 00:35:14,502
+So what happens now?
+
+727
+00:35:14,507 --> 00:35:16,904
+The four of us expand this place.
+
+728
+00:35:16,909 --> 00:35:19,907
+Use it to bring light to
+everyone in the universe.
+
+729
+00:35:19,912 --> 00:35:22,743
+Together.
+
+730
+00:35:22,748 --> 00:35:25,580
+Sounds like a new beginning.
+
+731
+00:35:25,585 --> 00:35:28,283
+For all of us. I hope.
+
+732
+00:35:28,288 --> 00:35:30,184
+I never really had a home.
+
+733
+00:35:30,589 --> 00:35:33,623
+But this sure feels like one.
+
+734
+00:35:34,626 --> 00:35:37,160
+I guess I never had a real family.
+
+735
+00:35:38,464 --> 00:35:41,027
+Might as well start somewhere.
+
+736
+00:35:41,032 --> 00:35:43,633
+I always knew I'd make the big leagues.
+
+737
+00:35:44,803 --> 00:35:46,769
+Ain't nothing bigger than this.
+
+738
+00:35:47,906 --> 00:35:50,173
+We're so proud of all of you.
+
+739
+00:35:51,110 --> 00:35:52,606
+Iris...
+
+740
+00:35:52,611 --> 00:35:54,808
+How can I ever apologize?
+
+741
+00:35:54,813 --> 00:35:56,577
+<i>♪ ♪</i>
+
+742
+00:35:56,582 --> 00:35:58,778
+- You don't have to.
+- But you believed me.
+
+743
+00:35:58,783 --> 00:36:01,548
+Through everything.
+
+744
+00:36:01,553 --> 00:36:03,850
+Thank you for seeing my humanity
+
+745
+00:36:03,855 --> 00:36:06,055
+long before I ever did.
+
+746
+00:36:12,931 --> 00:36:15,294
+And Barry...
+
+747
+00:36:15,299 --> 00:36:17,900
+Today you really were my hero.
+
+748
+00:36:41,258 --> 00:36:42,891
+[gasps]
+
+749
+00:36:45,428 --> 00:36:48,293
+- [chuckles]
+- [softly] Hi.
+
+750
+00:36:48,298 --> 00:36:50,465
+You feeling okay?
+
+751
+00:36:53,503 --> 00:36:54,933
+- Tired.
+- Mm-hmm.
+
+752
+00:36:54,938 --> 00:36:56,501
+Yeah.
+
+753
+00:36:56,506 --> 00:36:57,906
+But okay.
+
+754
+00:36:59,376 --> 00:37:00,939
+[gasps] Where's Jenna?
+
+755
+00:37:00,944 --> 00:37:02,307
+With Rob and David Singh,
+
+756
+00:37:02,312 --> 00:37:05,510
+- it's okay.
+- [relieved sigh]
+
+757
+00:37:05,515 --> 00:37:07,746
+Caitlin says
+
+758
+00:37:07,751 --> 00:37:09,581
+that you're gonna be fine.
+
+759
+00:37:09,586 --> 00:37:11,283
+- Yeah?
+- Thank God.
+
+760
+00:37:11,288 --> 00:37:14,319
+<i>♪ ♪</i>
+
+761
+00:37:14,324 --> 00:37:16,188
+What about the storm?
+
+762
+00:37:16,193 --> 00:37:17,355
+And Nora?
+
+763
+00:37:17,360 --> 00:37:19,791
+Team Flash for the win.
+
+764
+00:37:19,796 --> 00:37:22,927
+- Again.
+- Okay.
+
+765
+00:37:22,932 --> 00:37:25,529
+What about you?
+
+766
+00:37:25,534 --> 00:37:28,302
+Have you been here the whole time?
+
+767
+00:37:30,840 --> 00:37:33,370
+Doing what?
+
+768
+00:37:33,375 --> 00:37:36,240
+Looking after the people who...
+
+769
+00:37:36,245 --> 00:37:38,512
+Need me the most.
+
+770
+00:37:40,549 --> 00:37:44,515
+[chuckles, mutters softly]
+
 771
-00:40:39,603 --> 00:40:42,901
-Babe, what are you gonna
-tell Team Citizen?
+00:37:44,520 --> 00:37:46,684
+[laughs]
 
 772
-00:40:42,906 --> 00:40:45,372
-What are you gonna tell Team Flash?
+00:37:46,689 --> 00:37:50,894
+<i>♪ ♪</i>
 
 773
-00:40:50,976 --> 00:40:52,277
-<i>- [DMX's "Ruff Ryder's Anthem"]
-- ♪ Give a dog a bone ♪</i>
+00:37:52,894 --> 00:37:54,759
+I need to take these powers
+to the next level.
 
 774
-00:40:52,281 --> 00:40:53,712
-<i>♪ Leave a dog alone ♪</i>
+00:37:54,763 --> 00:37:57,561
+So, come the next apocalypse,
+I can be more than
 
 775
-00:40:53,717 --> 00:40:56,015
-<i>♪ Let a dog roam and he'll
-find his way home ♪</i>
+00:37:57,566 --> 00:37:58,996
+just a human glowstick.
 
 776
-00:40:56,019 --> 00:40:58,683
-<i>♪ Home of the brave, my home is a cage ♪</i>
+00:37:59,001 --> 00:38:00,831
+Ooh, you should yell a cool catch phrase
 
 777
-00:40:58,688 --> 00:41:01,619
-<i>♪ And yo, I'm a slave
-till my home is the grave ♪</i>
+00:38:00,836 --> 00:38:02,434
+before you fire your bad ass
+energy beams.
 
 778
-00:41:01,624 --> 00:41:03,855
-<i>♪ Stop, drop, shut 'em down
-open up shop ♪</i>
+00:38:02,438 --> 00:38:04,935
+Like, "flame on"!
 
 779
-00:41:03,860 --> 00:41:05,960
-[whooshing]
+00:38:04,940 --> 00:38:07,170
+You are such a dork, and I love you.
 
 780
-00:41:13,203 --> 00:41:15,866
-You're the one who's after me?
+00:38:07,175 --> 00:38:08,505
+Not as much as I love you.
 
 781
-00:41:15,871 --> 00:41:18,102
-You don't look so tough.
+00:38:08,510 --> 00:38:09,811
+Oh, that's actually not possible.
 
 782
-00:41:18,107 --> 00:41:21,404
-<i>[suspenseful music]</i>
+00:38:09,815 --> 00:38:12,576
+Because my love knows
+no cosmic bounds, so...
 
 783
-00:41:21,409 --> 00:41:25,614
-<i>♪ ♪</i>
+00:38:12,581 --> 00:38:14,978
+Oh, yeah? Well...
 
 784
-00:41:26,782 --> 00:41:28,245
-What are you?
+00:38:14,983 --> 00:38:17,048
+<i>[upbeat music playing]</i>
 
 785
-00:41:28,250 --> 00:41:30,580
-A reckoning.
+00:38:17,053 --> 00:38:19,483
+Oh, it's like that, huh?
 
 786
-00:41:30,585 --> 00:41:34,450
-<i>[intense music]</i>
+00:38:19,488 --> 00:38:20,754
+[clears throat]
 
 787
-00:41:34,455 --> 00:41:38,660
-<i>♪ ♪</i>
+00:38:22,591 --> 00:38:23,655
+Kamilla... [giggles]
 
 788
-00:42:05,650 --> 00:42:07,150
-Man: <i>Greg, move your head!</i>
+00:38:23,660 --> 00:38:25,923
+So, I binged a whole
+"Chopped" marathon last week.
 
 789
-00:42:07,155 --> 00:42:12,655
+00:38:25,928 --> 00:38:27,257
+[snickers] Nice, nice.
+
+790
+00:38:27,262 --> 00:38:29,860
+I built a pair of
+electronic sock warmers
+
+791
+00:38:29,865 --> 00:38:31,494
+- for Grandma Runk.
+- Cool.
+
+792
+00:38:31,499 --> 00:38:33,063
+Yeah.
+
+793
+00:38:33,068 --> 00:38:37,273
+<i>♪ ♪</i>
+
+794
+00:38:40,075 --> 00:38:43,306
+<i>♪ Oh, I got eyes on
+the back of my head ♪</i>
+
+795
+00:38:43,311 --> 00:38:45,275
+<i>♪ Go on and give it a try ♪</i>
+
+796
+00:38:45,280 --> 00:38:47,244
+<i>♪ I'm ready for you ♪</i>
+
+797
+00:38:47,249 --> 00:38:49,445
+- [phone buzzes]
+- [clears throat]
+
+798
+00:38:49,450 --> 00:38:50,948
+What's up? Is that Barry?
+
+799
+00:38:50,953 --> 00:38:53,386
+Yeah, please tell me
+there's another apocalypse.
+
+800
+00:38:54,790 --> 00:38:57,353
+- It's um...
+- _
+
+801
+00:38:57,358 --> 00:39:00,560
+It's nothing that can't
+wait till tomorrow.
+
+802
+00:39:03,063 --> 00:39:05,264
+[sighs] "Chopped", huh?
+
+803
+00:39:08,235 --> 00:39:11,133
+<i>[playful music]</i>
+
+804
+00:39:11,138 --> 00:39:12,235
+<i>♪ ♪</i>
+
+805
+00:39:12,239 --> 00:39:14,106
+[knock at door]
+
+806
+00:39:20,047 --> 00:39:21,877
+[gasps] Frost!
+
+807
+00:39:21,882 --> 00:39:23,082
+Oh, my God.
+
+808
+00:39:23,087 --> 00:39:24,147
+Are you okay?
+
+809
+00:39:24,151 --> 00:39:25,347
+Are you a fugitive now?
+
+810
+00:39:25,352 --> 00:39:26,782
+Because of this jailbreak?
+
+811
+00:39:26,787 --> 00:39:28,583
+Eh, slipped out of Iron Heights
+
+812
+00:39:28,588 --> 00:39:31,053
+just like the rest of the
+meta-wing during the storm.
+
+813
+00:39:31,058 --> 00:39:32,254
+But...
+
+814
+00:39:32,259 --> 00:39:33,956
+W-Why would you do that?
+
+815
+00:39:33,961 --> 00:39:35,523
+After everything you've been through?
+
+816
+00:39:35,528 --> 00:39:37,962
+Yeah. Get some much needed exercise.
+
+817
+00:39:39,593 --> 00:39:43,798
+To beat up and put away
+a dozen meta-humans.
+
+818
+00:39:43,803 --> 00:39:45,366
+And what about your sentence?
+
+819
+00:39:45,371 --> 00:39:47,835
+Oh, even the D.A.'s office has a heart
+
+820
+00:39:47,840 --> 00:39:51,206
+when it sees you on the news,
+saving lives.
+
+821
+00:39:51,211 --> 00:39:52,974
+That, and a good word from the Flash.
+
+822
+00:39:52,979 --> 00:39:55,379
+And I got out on probation
+for good behavior.
+
+823
+00:39:55,982 --> 00:39:57,715
+That's incredible.
+
+824
+00:40:01,454 --> 00:40:02,683
+What?
+
+825
+00:40:02,688 --> 00:40:04,052
+Nothing, you just...
+
+826
+00:40:04,057 --> 00:40:06,321
+I don't know, you seem different.
+
+827
+00:40:06,326 --> 00:40:09,657
+<i>[soft, curious music]</i>
+
+828
+00:40:09,662 --> 00:40:11,825
+- What?
+- Fine.
+
+829
+00:40:11,830 --> 00:40:14,031
+I have a crush on someone.
+
+830
+00:40:16,568 --> 00:40:18,365
+Who?
+
+831
+00:40:18,370 --> 00:40:20,100
+It's a bartender.
+
+832
+00:40:20,105 --> 00:40:24,310
+<i>♪ ♪</i>
+
+833
+00:40:27,512 --> 00:40:30,344
+<i>[H.E.R.'s "Lights On"]</i>
+
+834
+00:40:30,349 --> 00:40:32,312
+<i>♪ It's dark outside ♪</i>
+
+835
+00:40:32,317 --> 00:40:36,522
+It's weird that Alexa, Deon,
+and Bashir are just gone.
+
+836
+00:40:38,623 --> 00:40:40,154
+Yeah.
+
+837
+00:40:40,159 --> 00:40:42,025
+Everything feels different, it's like...
+
+838
+00:40:43,394 --> 00:40:47,029
+I don't know, we lost a part of us.
+
+839
+00:40:49,600 --> 00:40:50,963
+Is this what it's gonna be like
+
+840
+00:40:50,968 --> 00:40:52,999
+when our actual kids go to college?
+
+841
+00:40:53,004 --> 00:40:56,101
+<i>♪ ♪</i>
+
+842
+00:40:56,106 --> 00:40:57,602
+I mean...
+
+843
+00:40:57,607 --> 00:40:59,070
+We'd have to actually...
+
+844
+00:40:59,075 --> 00:41:02,974
+Try and, you know.
+
+845
+00:41:02,979 --> 00:41:05,777
+<i>♪ Fluent in the sheets ♪</i>
+
+846
+00:41:05,782 --> 00:41:08,513
+<i>♪ Can you read in between me? ♪</i>
+
+847
+00:41:08,518 --> 00:41:09,815
+<i>♪ I ain't a stranger ♪</i>
+
+848
+00:41:09,820 --> 00:41:12,083
+Any who, makes you wonder.
+
+849
+00:41:12,088 --> 00:41:13,551
+<i>♪ Yeah ♪</i>
+
+850
+00:41:13,556 --> 00:41:16,554
+<i>♪ So we can skip the word play ♪</i>
+
+851
+00:41:16,559 --> 00:41:18,089
+<i>♪ Yeah ♪</i>
+
+852
+00:41:18,094 --> 00:41:20,125
+<i>♪ Leave the lights on ♪</i>
+
+853
+00:41:20,130 --> 00:41:21,559
+Yeah, it does.
+
+854
+00:41:21,564 --> 00:41:23,594
+<i>♪ Leave the lights on ♪</i>
+
+855
+00:41:23,599 --> 00:41:25,396
+<i>♪ Leave 'em, leave 'em lights on ♪</i>
+
+856
+00:41:25,401 --> 00:41:26,564
+[chuckles]
+
+857
+00:41:26,569 --> 00:41:29,066
+<i>♪ ♪</i>
+
+858
+00:41:29,071 --> 00:41:32,306
+Iris? Where are you going?
+
+859
+00:41:33,943 --> 00:41:36,673
+I'm tired of wondering.
+
+860
+00:41:36,678 --> 00:41:39,476
+Let's start a family.
+
+861
+00:41:39,481 --> 00:41:41,345
+I love that impulse.
+
+862
+00:41:41,350 --> 00:41:42,549
+[chuckles]
+
+863
+00:41:44,987 --> 00:41:48,185
+<i>♪ On ♪</i>
+
+864
+00:41:48,190 --> 00:41:50,324
+<i>♪ On, on ♪</i>
+
+865
+00:42:13,330 --> 00:42:14,930
+<i>Greg, move your head.</i>
+
+866
+00:42:14,935 --> 00:42:20,335
 - Synced and corrected by<font color="#00BFFF"> Firefly</font> -
 - <font color="#00ffff">www.addic7ed.com</font> -
+
